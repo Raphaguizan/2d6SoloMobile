@@ -22,6 +22,8 @@ public class PopupManager : Game.Util.Singleton<PopupManager>
         else
             popup.SetActive(true);
 
+        popup.transform.SetAsLastSibling();
+
         return popup.GetComponent<PopupBase>();
     }
 
@@ -39,7 +41,7 @@ public class PopupManager : Game.Util.Singleton<PopupManager>
         for (int i = 0; i < list.Count; i++)
         {
             var myPopup = list[i].GetComponent<PopupBase>();
-            if (myPopup.MyType == popupType)
+            if (myPopup.MyType == popupType && !myPopup.gameObject.activeInHierarchy)
                 return list[i];
         }
         return null;

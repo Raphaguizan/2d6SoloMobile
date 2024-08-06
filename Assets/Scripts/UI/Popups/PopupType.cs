@@ -4,5 +4,6 @@ using System;
 public enum PopupType 
 {
     Simple,
-    Destiny
+    Destiny,
+    Injury
 }

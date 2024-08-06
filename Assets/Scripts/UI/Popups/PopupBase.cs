@@ -26,7 +26,7 @@ public class PopupBase : MonoBehaviour
         titleText.text = newTable.GetTitle();
     }
 
-    public void ClosePopup()
+    public virtual void ClosePopup()
     {
         gameObject.SetActive(false);
     }
