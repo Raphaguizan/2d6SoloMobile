@@ -12,6 +12,12 @@ public class TableDouble : TableBase
     private int lastTableIndex = 0;
 
     public string TableTitle => tableTitle;
+
+    public override string GetTitle()
+    {
+        return tableTitle;
+    }
+
     public override string GetResult()
     {
         return GetResult(Random.Range(0, myTables.Count));

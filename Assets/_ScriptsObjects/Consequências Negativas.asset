@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
+  m_Name: "Consequ\xEAncias Negativas"
+  m_EditorClassIdentifier: 
+  hint: 
+  myTable:
+    title: "Consequ\xEAncias Negativas"
+    results:
+    - "A a\xE7\xE3o do Coadjuvante ou Protagonista causa um efeito negativo, destrutivo
+      ou danoso, f\xEDsica ou emocionalmente, em um de seus amigos, companheiros
+      ou aliados."
+    - "Algo de valor \xE9 perdido, ou destru\xEDdo, ou \xE9 tomado pelo inimigo do
+      Coadjuvante ou Protagonista"
+    - "Uma nova amea\xE7a, um novo obst\xE1culo, um novo perigo ou inimigo do Coadjuvante
+      ou Protagonista \xE9 revelado."
+    - "O Coadjuvante ou Protagonista coloca um amigo, companheiro ou aliado, ou a
+      si mesmo em perigo ou em uma situa\xE7\xE3o muito pior."
+    - "O Coadjuvante ou Protagonista sofre um Acidente Inesperado, algo que n\xE3o
+      estava na Cena aparece para atrapalhar, ou um desastre impreviso o deixa incapacitado
+      ou sem a\xE7\xE3o, at\xE9 que ele resolva o seu problema."
+    - "O Coadjuvante ou Protagonista sofre a Pior Cat\xE1strofe poss\xEDvel para
+      a sua situa\xE7\xE3o. O Coadjuvante ou Protagonista fica incapacitado, ferido
+      gravemente, traumatizado, preso, imobilizado, ou completamente \xE0 merc\xEA
+      de seu Antagonista na cena, com seus pertences destru\xEDdos, infectado, doente,
+      acusado injustamente, ou algo semelhante."

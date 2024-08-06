@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
-  m_Name: "Or\xE1culo Do Destino"
+  m_Name: "Dano de Ps\xEDquico"
   m_EditorClassIdentifier: 
   hint: 
   myTable:
-    title: "Or\xE1culo Do Destino"
+    title: "Dano de Ps\xEDquico"
     results:
-    - "N\xE3o, e algo Aumenta ou Refor\xE7a a Resposta.#"
-    - "N\xE3o."
-    - "N\xE3o, mas algo Diminui ou Enfraquece a Resposta."
-    - Sim, mas algo Diminui ou Enfraquece a Resposta.
-    - Sim.
-    - "Sim, e algo Aumenta ou Refor\xE7a a Resposta.#"
+    - "Ilus\xF5es Visuais"
+    - "Ilus\xF5es Sonoras"
+    - "Vis\xF5es Insanas"
+    - Perda do controle dos membros
+    - "Dor de Cabe\xE7a Fort\xEDssima e Sangue saindo pelo nariz e ouvidos"
+    - "Insanidade Tempor\xE1ria"

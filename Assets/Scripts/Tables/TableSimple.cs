@@ -8,6 +8,11 @@ public class TableSimple : TableBase
     [SerializeField]
     private Table myTable;
 
+    public override string GetTitle()
+    {
+        return myTable.Title;
+    }
+
     public override string GetResult()
     {
         return myTable.GetResult();
@@ -26,7 +31,7 @@ public class TableSimple : TableBase
     protected override void Reset()
     {
         lastTitleName = this.name;
-        myTable.SetNewTitle(lastTitleName);
+        //myTable.SetNewTitle(lastTitleName);
     }
     protected override void OnValidate()
     {

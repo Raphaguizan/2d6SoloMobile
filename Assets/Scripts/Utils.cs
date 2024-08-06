@@ -2,10 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public static class Utils 
+namespace Game.Util
 {
-    public static bool FiftyFifty()
+    public static class Utils
     {
-        return Random.Range(0, 2) == 0;
+        public static bool FiftyFifty()
+        {
+            return Random.Range(0, 2) == 0;
+        }
     }
 }
