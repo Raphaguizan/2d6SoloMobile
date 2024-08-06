@@ -9,6 +9,11 @@ public class TableBase : ScriptableObject, ITable
 
     public string Hint => hint;
 
+    public virtual int Count()
+    {
+        return 0; 
+    }
+
     public virtual string GetTitle()
     {
         return "";

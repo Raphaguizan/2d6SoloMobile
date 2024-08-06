@@ -13,6 +13,11 @@ public class TableDouble : TableBase
 
     public string TableTitle => tableTitle;
 
+    public override int Count()
+    {
+        return myTables.Count;
+    }
+
     public override string GetTitle()
     {
         return tableTitle;

@@ -5,5 +5,6 @@ public enum PopupType
 {
     Simple,
     Destiny,
-    Injury
+    Injury,
+    SucessAndFail
 }

@@ -8,6 +8,10 @@ public class TableSimple : TableBase
     [SerializeField]
     private Table myTable;
 
+    public override int Count()
+    {
+        return myTable.Count;
+    }
     public override string GetTitle()
     {
         return myTable.Title;
