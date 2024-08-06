@@ -354,9 +354,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7078711523086289863}
-  - component: {fileID: 3267882781318401371}
+  - component: {fileID: 3771225306826567729}
   m_Layer: 5
-  m_Name: PopupBase
+  m_Name: PopupDestiny
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -384,7 +384,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &3267882781318401371
+--- !u!114 &3771225306826567729
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -393,13 +393,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 4431535865560783977}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 48740f481a1a8774a985b6bd27d44803, type: 3}
+  m_Script: {fileID: 11500000, guid: 986b62e3b2282e24aab7d8cf2debcab5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   myTable: {fileID: 0}
-  myType: 0
+  myType: 1
   titleText: {fileID: 8674435759478969771}
   contentText: {fileID: 1699061576707478532}
+  unexpectedEvents: {fileID: 11400000, guid: 9694023c753175046b9442670026bd64, type: 2}
 --- !u!1 &7318590509890350420
 GameObject:
   m_ObjectHideFlags: 0
@@ -521,7 +522,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 3267882781318401371}
+      - m_Target: {fileID: 3771225306826567729}
         m_TargetAssemblyTypeName: PopupBase, Assembly-CSharp
         m_MethodName: ClosePopup
         m_Mode: 1

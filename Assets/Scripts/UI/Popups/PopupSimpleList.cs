@@ -9,7 +9,5 @@ public class PopupSimpleList : PopupBase
         base.InitializePopUp(newTable);
 
         contentText.text = newTable.GetResult();
-
-        Debug.Log("INICIOU O 2!!!");
     }
 }

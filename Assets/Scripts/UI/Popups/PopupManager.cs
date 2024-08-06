@@ -13,10 +13,8 @@ public class PopupManager : Game.Util.Singleton<PopupManager>
 
     private List<GameObject> myPopups = new();
 
-    public static PopupBase OpenPopUp(Type popupType = null)
+    public static PopupBase OpenPopUp(PopupType popupType)
     {
-        if (popupType == null)
-            popupType = typeof(PopupBase);
 
         GameObject popup = Instance.GetPopupObjByType(Instance.myPopups, popupType);
         if (popup == null)
@@ -27,27 +25,21 @@ public class PopupManager : Game.Util.Singleton<PopupManager>
         return popup.GetComponent<PopupBase>();
     }
 
-    private GameObject InstantiatePopup(Type popupType = null)
+    private GameObject InstantiatePopup(PopupType popupType)
     {
-        Debug.Log(popupType);
-        GameObject popup = null;
-        if (popupType == null) 
-            popup = GetPopupObjByType(popupsPrefabs, typeof(PopupBase));
-        else
-            popup = GetPopupObjByType(popupsPrefabs, popupType);
-
+        GameObject popup = GetPopupObjByType(popupsPrefabs, popupType);
 
         GameObject newPopup = Instantiate(popup, popupContent);
         myPopups.Add(newPopup);
         return newPopup;
     }
 
-    private GameObject GetPopupObjByType(List<GameObject> list, Type popupType)
+    private GameObject GetPopupObjByType(List<GameObject> list, PopupType popupType)
     {
         for (int i = 0; i < list.Count; i++)
         {
             var myPopup = list[i].GetComponent<PopupBase>();
-            if (myPopup.GetType() == popupType)
+            if (myPopup.MyType == popupType)
                 return list[i];
         }
         return null;
