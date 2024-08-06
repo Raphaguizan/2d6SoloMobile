@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
+  m_Name: "Or\xE1culo dos Eventos Inesperados"
+  m_EditorClassIdentifier: 
+  hint: 
+  myTable:
+    title: "Or\xE1culo dos Eventos Inesperados"
+    results:
+    - "Foi tudo Mentira, a Verdade ser\xE1 revelada agora."
+    - "O Protagonista est\xE1 atrasado e algo horr\xEDvel acontece por causa disso."
+    - "Um novo Coadjuvante Antagonista ou alguma Fac\xE7\xE3o que pode Atrapalhar
+      o Protagonista aparece."
+    - "Um Segredo Sombrio \xE9 revelado."
+    - "O Verdadeiro Coadjuvante Antagonista \xE9 revelado."
+    - "Um Coadjuvante muda dramaticamente de opini\xE3o, motiva\xE7\xF5es, alian\xE7as,
+      para melhor ou para pior para o ponto de vista de Protagonista."
+    - "Uma Armadilha \xE9 ativada e muda tudo."
+    - O Antagonista ganha novos Aliados.
+    - "Um Evento Dram\xE1tico acontece e d\xE1 in\xEDcio \xE0 uma nova Cena, com
+      um novo Problema e um novo Conflito."
+    - "Uma suposi\xE7\xE3o do Protagonista \xE9 revelada ser falsa."
+    - "Uma Nova Amea\xE7a aparece."
+    - "Um Evento Impessoal e Dram\xE1tico acontece, seja um Acidente, ou algum perigo
+      envolvendo o local, terreno ou causado pelas for\xE7as da natureza."
+    - "As a\xE7\xF5es do Protagonista beneficiam um Coadjuvante Antagonista."
+    - "Algu\xE9m ou Alguma Coisa desaparece."
+    - "Um novo Objeto ou Obst\xE1culo surge e se torna importante."
+    - A Cena se resolve de maneira muito negativa para o Protagonista.
+    - "Um Coadjuvante Antagonista mais poderoso \xE9 revelado."
+    - "Duas Situa\xE7\xF5es, Amea\xE7as, Grupos, Antagonistas, ou outras Entidades
+      aparentemente n\xE3o relacionados se revelam que est\xE3o conectados."
+    - "Tr\xEAs Situa\xE7\xF5es, Amea\xE7as, Grupos, Antagonistas, ou outras Entidades
+      aparentemente n\xE3o relacionados se revelam que est\xE3o conectados."
+    - "A Cena leva o Protagonista para um novo local, cen\xE1rio, situa\xE7\xE3o,
+      ambiente"
+    - O Protagonista e um Coadjuvante Antagonista compartilha um objetivo em comum.
+    - "Poderes ou Habilidades inesperadas s\xE3o reveladas no Protagonista ou em
+      seus aliados."
+    - "Uma conex\xE3o, relacionamento, v\xEDnculo, liga\xE7\xE3o se forma entre o
+      Protagonista e um Coadjuvante."
+    - "Uma Verdadeira Identidade \xE9 revelada."
+    - "Poderes ou Habilidades inesperadas s\xE3o reveladas no Antagonista ou em seus
+      aliados."
+    - "Um novo Coadjuvante Aliado ou alguma Fac\xE7\xE3o que pode Ajudar o Protagonista
+      aparece."
+    - "O Protagonista foi tra\xEDdo por um Coadjuvante Aliado."
+    - "Um Evento Distante e Importante acontece e \xE9 mencionado, alterando os rumos
+      da Fic\xE7\xE3o do Jogo."
+    - "A Cena se resolve de maneira Amb\xEDgua, em um Empate, para o Protagonista
+      e o Antagonista."
+    - "A maior Cat\xE1strofe poss\xEDvel acontece para o Protagonista."
+    - "O Melhor Evento poss\xEDvel acontece para o Protagonista."
+    - "Um Item Importante \xE9 revelado e usado pelo Antagonista prejudica o Protagonista."
+    - "Um Item Importante \xE9 revelado e usado pelo Protagonista prejudica o Antagonista."
+    - "Antagonista e Protagonista sofrem com uma consequ\xEAncia negativa de um Evento
+      fora de seu controle."
+    - Um Coadjuvante Poderoso aparece e ataca o Antagonista e o Protagonista ao mesmo
+      tempo.
+    - "- Role duas vezes e incorpore os dois resultados na Fic\xE7\xE3o do Jogo."
