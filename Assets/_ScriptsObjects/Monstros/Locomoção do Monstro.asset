@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
+  m_Name: "Locomo\xE7\xE3o do Monstro"
+  m_EditorClassIdentifier: 
+  hint: 
+  myTable:
+    title: "Locomo\xE7\xE3o do Monstro"
+    results:
+    - "Deslizar - desliza pelo ch\xE3o ou pelo ar"
+    - "Maratona - pode correr grandes dist\xE2ncias sem fadiga"
+    - "Corrida R\xE1pida - capaz de rajadas curtas de grande velocidade"
+    - "Salto - salto (como um modo de viagem) ou salto \xFAnico (para ataques)"
+    - "Subterr\xE2neo - se enterra e anda rapidamente por debaixo da terra"
+    - "Teleporte - linha de vis\xE3o, para v\xE1rios locais definidos ou em qualquer
+      lugar \xE0 vontade"
+    - "Nadar - tamb\xE9m pode respirar \xE1gua, resistente a press\xF5es ou nadar
+      no ar"
+    - "Conjura ou Chama uma Montaria - montaria, avi\xE1ria, monstruosa etc, vem
+      de longe ou aparece para carregar o monstro"
+    - "Portais de Teleporte - cria portais ou usa elementos semelhantes para se teleportar
+      atrav\xE9s deles (\xE1rvores, pedras, terra, etc.)"
+    - "Caminha sobre as \xE1guas ou caminha pelo ar"
+    - "Surfa sobre a terra, ar, \xE1gua - monta uma pequena onda de terra que liquefaz
+      temporariamente, ou cria ondas de ar ou de \xE1gua para surfar."
+    - Voar - voa com ou sem asas
+    - "Se move como um fantasma - pode se tornar fantasmag\xF3rico e flutuar atrav\xE9s
+      de objetos s\xF3lidos"
+    - Se move como Eletricidade - vira uma energia e pode viajar com materiais condutores
+      ou como um raio
+    - Pode caminhar pelas paredes, como uma aranha
+    - Se move rapidamente, com velocidade sobrenatural
+    - "Quica no ch\xE3o como uma bola de borracha"
+    - "Usa tent\xE1culos, ap\xEAndices, bra\xE7os, etc para se locomover rapidamente."

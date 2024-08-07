@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
+  m_Name: "_Cabe\xE7a do Monstro"
+  m_EditorClassIdentifier: 
+  hint: 
+  myTable:
+    title: "_Cabe\xE7a do Monstro"
+    results:
+    - Boca com Presas - sutis ou pronunciadas
+    - "Olhos semicerrados - resist\xEAncia ao brilho e (talvez) vis\xE3o aprimorada"
+    - Orelha pontuda - sutil ou pronunciada
+    - "Orelhas enormes - orelhas como um c\xE3o de ca\xE7a ou elefante"
+    - Orelhas grandes - grandes demais
+    - "Olho \xFAnico - percep\xE7\xE3o de profundidade limitada"
+    - "Olhos Multifacetados como os de um inseto - \xF3tima vis\xE3o perif\xE9rica"
+    - "Olhos m\xFAltiplos - agrupados (grande percep\xE7\xE3o de profundidade) ou
+      dispersos"
+    - Focinho - aumento do olfato
+    - Chifres Longos
+    - Crista - uma crista, topete, pluma ou de espinhos.
+    - "Caules oculares - podem ser estendidos / retra\xEDdos \xE0 vontade (como um
+      caranguejo ou uma lesma)"
+    - "L\xEDngua bifurcada - cheiro melhorado"
+    - Chifres Curtos ou Numerosos
+    - Cabeleira - cobertura parcial (juba) ou total do corpo, grossos ou longos
+    - "Antenas - permitem a navega\xE7\xE3o na escurid\xE3o total (radar)"
+    - "Pesco\xE7o extens\xEDvel a v\xE1rios metros"
+    - "Sem cabe\xE7a - as caracter\xEDsticas da cabe\xE7a est\xE3o ausentes ou em
+      outro local (como peito ou m\xE3os)"
+    - Presas - como javalis, largo, curva ou como de tigres dentes-de-sabre
+    - "Tent\xE1culos - \xFAnicos ou m\xFAltiplos, longos ou curtos, que crescem dos
+      l\xE1bios, cabe\xE7a, etc."
+    - "Cabe\xE7a de fogo"
+    - "Cabe\xE7a de \xE1gua"
+    - "Cabe\xE7a de energia"
+    - "Duas Cabe\xE7as"
+    - "Tr\xEAs Cabe\xE7as"
+    - "A cabe\xE7a \xE9 um monte de tent\xE1culos, com ou sem dezenas de olhos"
+    - Sem pele, puro osso ou uma caveira exposta
+    - "Cabe\xE7a tem caracter\xEDsticas de um tipo de animal: inseto, anf\xEDbio,
+      r\xE9ptil, p\xE1ssaro ou mam\xEDfero"
+    - Coberta de dezenas de olhos
+    - Duas ou mais bocas cheias de dentes afiados
+    - Tromba longa ou curta
+    - Boca que se abre para fora, como a do Predador
+    - Boca dupla, uma que se abre e uma segunda, interna que se extende para morder,
+      como a do xenomorfo dos filmes Aliens.
+    - "Cabe\xE7a met\xE1lica, feita de a\xE7o ou coberta de placas de a\xE7o."
+    - "Cabe\xE7a transl\xFAcida, fantasmag\xF3rica ou intang\xEDvel."
+    - "Role duas op\xE7\xF5es acima #"

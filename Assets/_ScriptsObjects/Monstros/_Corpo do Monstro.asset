@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
+  m_Name: _Corpo do Monstro
+  m_EditorClassIdentifier: 
+  hint: 
+  myTable:
+    title: _Corpo do Monstro
+    results:
+    - "Corpo semelhante ao de um Humano - aproximadamente antropom\xF3rfico"
+    - "Corpo semelhante ao de uma Lesma - grande, m\xE9dia ou pequena, conforme desejado"
+    - Corpo semelhante ao de um Centauro - humanoide da cintura para cima, animal
+      abaixo
+    - "Corpo quadr\xFApede, pequeno - um animal como um gato, cachorro, doninha,
+      lobo ou rato"
+    - "Corpo semelhante ao de um P\xE1ssaro - grande, m\xE9dio ou pequeno, conforme
+      desejado"
+    - Corpo semelhante ao de uma Cobra ou Verme - algo como uma cobra, enguia ou
+      verme
+    - "Corpo semelhante ao de uma Arraia - plano, n\xE3o necessariamente aqu\xE1tico"
+    - "Corpo semelhante ao de um Peixe - n\xE3o necessariamente aqu\xE1tico"
+    - Corpo semelhante ao de uma Planta - enraizada ou ambulatorial
+    - "Corpo human\xF3ide com caracter\xEDsticas animais - corpo aproximadamente
+      antropom\xF3rfico, mas com cabe\xE7a de um animal"
+    - "Corpo semelhante ao de um Inseto - aranha, escorpi\xE3o, vespa, mantis, mariposa,
+      carrapato ou crust\xE1ceo"
+    - "Corpo em forma de Bolha - uma massa amorfa de algum material org\xE2nico"
+    - "Corpo em forma de Bal\xE3o - um saco cheio de g\xE1s ou l\xEDquido"
+    - "Corpo semelhante ao de uma Lula ou Polvo - n\xE3o necessariamente aqu\xE1tica"
+    - "Corpo meio human\xF3ide, meia reptiliano"
+    - "Corpo feito de ra\xEDzes vegetais."
+    - "Corpo quadr\xFApede grande - um animal como urso, cavalo, veado, cabra, puma
+      ou touro"
+    - "Corpo gigantesco e human\xF3ide."
+    - "Corpo semelhante ao de um Caracol - grande, m\xE9dio ou pequeno"
+    - "Corpo semelhante ao de uma Estrela do mar - n\xE3o necessariamente aqu\xE1tica"
+    - "Corpo composto de cad\xE1veres."
+    - "Corpo semelhante a de um Crust\xE1ceo - uma lagosta, caranguejo, etc."
+    - Corpo de areia
+    - Corpo de fogo
+    - "Corpo de \xE1gua"
+    - Corpo de ar
+    - Corpo de eletricidade
+    - Corpo de pedra
+    - "Corpo transl\xFAcido e transparente"
+    - "Corpo intang\xEDvel, como de um fantasma"
+    - "Corpo que mistura caracter\xEDsticas de dois ou tr\xEAs tipos animais diferentes:
+      como insetos, peixes, anf\xEDbios, mam\xEDferos, r\xE9pteis"
+    - "Corpo repleto ou feito de tent\xE1culos."
+    - "Corpo esf\xE9rico com diversos tent\xE1culos ou espinhos saindo deles, como
+      um ouri\xE7o do mar"
+    - "Como o de uma An\xEAmona do Mar, circular com tent\xE1culos"
+    - Corpo semelhante ao de um Dinossauro
+    - "Role duas vezes nessa tabela, o corpo possui essas duas caracter\xEDsticas
+      #"
