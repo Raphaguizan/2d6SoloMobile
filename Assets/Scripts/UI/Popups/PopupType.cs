@@ -7,5 +7,6 @@ public enum PopupType
     Destiny,
     Injury,
     SucessAndFail,
-    AdventureAndPlot
+    AdventureAndPlot,
+    SupportCharacter,
 }

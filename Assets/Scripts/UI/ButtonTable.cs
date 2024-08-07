@@ -35,6 +35,6 @@ public class ButtonTable : MonoBehaviour
     private void UpdateTitle()
     {
         if (table != null)
-            myText.text = table.GetTitle();
+            myText.text = table?.GetTitle();
     }
 }

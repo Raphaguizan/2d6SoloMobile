@@ -16,9 +16,9 @@ MonoBehaviour:
   myTable:
     title: Destino
     results:
-    - "N\xE3o, e algo Aumenta ou Refor\xE7a a Resposta.&"
+    - "N\xE3o, e algo Aumenta ou Refor\xE7a a Resposta.@"
     - "N\xE3o."
     - "N\xE3o, mas algo Diminui ou Enfraquece a Resposta."
     - Sim, mas algo Diminui ou Enfraquece a Resposta.
     - Sim.
-    - "Sim, e algo Aumenta ou Refor\xE7a a Resposta.&"
+    - "Sim, e algo Aumenta ou Refor\xE7a a Resposta.@"

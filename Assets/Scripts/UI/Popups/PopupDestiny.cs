@@ -13,9 +13,9 @@ public class PopupDestiny : PopupBase
         base.InitializePopUp(newTable);
 
         string myText = myTable.GetResult();
-        if (myText.Contains('&'))
+        if (myText.Contains('@'))
         {
-            myText = myText.Replace("&", "");
+            myText = myText.Replace("@", "");
             if (Utils.FiftyFifty())
                 myText += ":\n\nEVENTO INESPERADO\n" + unexpectedEvents.GetResult();
         }
