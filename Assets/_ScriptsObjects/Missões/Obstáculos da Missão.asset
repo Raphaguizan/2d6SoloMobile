@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
+  m_Name: "Obst\xE1culos da Miss\xE3o"
+  m_EditorClassIdentifier: 
+  hint: 
+  myTable:
+    title: "Obst\xE1culos da Miss\xE3o"
+    results:
+    - Armadilhas
+    - "Ambiente, Terreno, Condi\xE7\xF5es Clim\xE1ticas"
+    - Coadjuvantes Antagonistas Menores, Soldados, Guerreiros, Servos
+    - Coadjuvantes Aliados que traem e viram Antagonistas
+    - "Informa\xE7\xE3o Falsa, Mudan\xE7a de Condi\xE7\xF5es, Perigos Inesperados"
+    - Coadjuvantes Antagonistas Maiores, chefes, comandantes, etc.
