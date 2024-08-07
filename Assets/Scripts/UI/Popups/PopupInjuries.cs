@@ -21,7 +21,10 @@ public class PopupInjuries : PopupBase
 
     public override void InitializePopUp(TableBase newTable = null)
     {
-        base.InitializePopUp(newTable);      
+        if (newTable == null)
+            return;
+
+        myTable = newTable;
     }
 
     private void GenerateButtons()

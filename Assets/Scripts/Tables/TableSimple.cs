@@ -19,16 +19,36 @@ public class TableSimple : TableBase
 
     public override string GetResult()
     {
-        return myTable.GetResult();
+        return ValidateOutPut(myTable.GetResult());
     }
     public override string GetResult(int index)
     {
-        return myTable.GetResult(index);
+        return ValidateOutPut(myTable.GetResult(index));
     }
 
     public override string RollMinorTable(int index = -1)
     {
         return GetResult();
+    }
+
+    private string ValidateOutPut(string enter, bool recursive = true)
+    {
+        if (!enter.Contains('#'))
+        {
+            return enter;
+        }
+
+        if (!recursive)
+        {
+            return ValidateOutPut(myTable.GetResult(), false);
+        }
+
+        string resp = "";
+        resp += ValidateOutPut(myTable.GetResult(), false);
+        resp += " (E) ";
+        resp += ValidateOutPut(myTable.GetResult(), false);
+
+        return resp;
     }
 
     #region update objectName

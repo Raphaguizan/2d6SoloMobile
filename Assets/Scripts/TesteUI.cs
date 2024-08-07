@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using Game.Util;
+using NaughtyAttributes;
 
 public class TesteUI : MonoBehaviour
 {
@@ -29,5 +30,11 @@ public class TesteUI : MonoBehaviour
                 myText += ":\n\n" + testEventoInesperadoTable.GetResult();
         }
         textMeshProUGUI.text = myText;
+    }
+
+    [Button]
+    public void Teste2Rolls()
+    {
+        Debug.Log(testTable.GetResult(4));
     }
 }
