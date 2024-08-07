@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 [CreateAssetMenu(menuName = "Tables/Double", fileName = "NewDoubleTable")]
@@ -12,6 +13,8 @@ public class TableDouble : TableBase
     private int lastTableIndex = 0;
 
     public string TableTitle => tableTitle;
+
+    private string connectionWord = "";
 
     public override int Count()
     {
@@ -34,9 +37,14 @@ public class TableDouble : TableBase
         return RollMinorTable();
     }
 
+    public void SetConnectionWord(string newConnectionWord)
+    {
+        connectionWord = newConnectionWord;
+    }
+
     public override string RollMinorTable(int index = -1)
     {
-        return myTables[lastTableIndex].Title + ": \n" + MinorTableResult(index);
+        return myTables[lastTableIndex].Title + (connectionWord.Length > 0 ?"\n\n":"") + connectionWord + ":\n\n" + MinorTableResult(index);
     }
 
     private string MinorTableResult(int index = -1)

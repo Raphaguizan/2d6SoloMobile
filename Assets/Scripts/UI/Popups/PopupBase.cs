@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using NaughtyAttributes;
 
 public class PopupBase : MonoBehaviour
 {
-    [SerializeField]
+    [SerializeField, Expandable]
     protected TableBase myTable;
     [SerializeField]
     protected PopupType myType;
@@ -23,7 +24,7 @@ public class PopupBase : MonoBehaviour
 
         myTable = newTable;
 
-        titleText.text = newTable.GetTitle();
+        titleText.text = myTable.GetTitle();
     }
 
     public virtual void ClosePopup()

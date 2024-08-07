@@ -6,5 +6,6 @@ public enum PopupType
     Simple,
     Destiny,
     Injury,
-    SucessAndFail
+    SucessAndFail,
+    AdventureAndPlot
 }

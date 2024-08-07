@@ -1,0 +1,385 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eec361b7e3eb2094e9e1b53710ef003f, type: 3}
+  m_Name: Aventuras e Reviravoltas
+  m_EditorClassIdentifier: 
+  hint: 
+  tableTitle: Aventuras e Reviravoltas
+  myTables:
+  - title: "Os Protagonistas est\xE3o em meio a uma situa\xE7\xE3o dif\xEDcil, como
+      uma tempestade, inc\xEAndio, guerra, explos\xF5es e entram em um abrigo."
+    results:
+    - "O abrigo cont\xE9m a causa da amea\xE7a que os Protagonistas estavam tentando
+      evitar."
+    - "O abrigo abriga uma Base Oculta de algum Antagonista ou Fac\xE7\xE3o Hostil."
+    - "Os Protagonistas n\xE3o devem apenas lutar por abrigo, devem lutar para sobreviver."
+    - "O local \xE9 um abrigo leg\xEDtimo de algum tipo, mas os Protagonistas n\xE3o
+      s\xE3o bem-vindos e precisam conquistar cora\xE7\xF5es ou mentes de Coadjuvantes
+      do lugar para ganhar sua cama durante a noite."
+  - title: Os Protagonistas chegam tarde demais para impedir os Antagonistas de realizar
+      algo nefasto e agora precisam recuperar o tempo perdido.
+    results:
+    - "Os Antagonistas escaparam roubando um dos ve\xEDculos dos Protagonistas."
+    - "Os Antagonistas se esquivam de uma estrada metaf\xF3rica (ou literal), tentando
+      se esconder ou se misturar em um ambiente, geralmente um local hostil e perigoso
+      aos Protagonistas)."
+    - "Se os Antagonistas cruzarem algum tipo de \"linha de chegada\" da aventura,
+      por exemplo, cruzar uma fronteira, chegar a uma base de seus aliados, chegar
+      a um esconderijo, embarcar em algo para viajar para longe, etc, n\xE3o existe
+      maneira de persegui-los ou captur\xE1-los"
+  - title: "Os Protagonistas sofrem Chantagem de um Antagonista ou de uma Fac\xE7\xE3o
+      Hostil e s\xE3o for\xE7ados a fazerem algo que n\xE3o desejam."
+    results:
+    - "A Chantagem envolve uma informa\xE7\xE3o falsa, criada para incriminar os
+      Protagonistas."
+    - "Para vencer o Antagonista, os Protagonistas devem entrar em contato com outras
+      pessoas que tamb\xE9m est\xE3o sendo chantageadas."
+    - "Os Protagonistas precisam descobrir algo do Antagonista para chantage\xE1-lo."
+    - "Os Protagonistas n\xE3o s\xE3o as v\xEDtimas da chantagem. O alvo foi um Coadjuvante
+      Aliado com quem eles se preocupam, gostam, seguem, ou s\xE3o encarregados de
+      proteger."
+  - title: "Os Protagonistas precisam invadir, arrombar, ou entrar em algum lugar
+      de dif\xEDcil acesso ou muito protegido para cumprir algum objetivo importante."
+    results:
+    - "O objetivo n\xE3o \xE9 extrair uma coisa, mas destruir uma coisa ou interferir
+      em um processo (destruir o gerador de campo de for\xE7a, assassinar o rei do
+      mal, impedir que um feiti\xE7o seja lan\xE7ado, fechar um portal, etc)."
+    - Assim que os Protagonistas invadem o local, o objetivo muda, se inverte, ou
+      era tudo uma cilada.
+    - "O objetivo \xE9 uma informa\xE7\xE3o, que deve ser transmitida ou retirada
+      da \xE1rea assim que for encontrada."
+    - "O trabalho deve ser feito sem alertar ningu\xE9m."
+    - "Os Protagonistas n\xE3o sabem que o lugar \xE9 t\xE3o perigoso, ou receberam
+      informa\xE7\xF5es erradas, ou as defesas do local j\xE1 sabem de sua invas\xE3o."
+    - Os Protagonistas devem substituir uma coisa por outra dentro do local.
+  - title: "Os Protagonistas precisam liderar uma for\xE7a de invas\xE3o, de ataque,
+      de patrulha, de combate, de explora\xE7\xE3o, para entrar em uma lugar e retirar
+      algo do controle de Antagonistas ou uma Fac\xE7\xE3o Hostil."
+    results:
+    - "Os Protagonistas devem montar, reunir, selecionar ou treinar uma for\xE7a
+      de ataque para fazer o trabalho com eles."
+    - "Os Protagonistas est\xE3o trabalhando com intelig\xEAncia falha e a zona-alvo
+      n\xE3o \xE9 a descrita."
+    - "Os Protagonistas devem coordenar seus pr\xF3prios esfor\xE7os com um grupo
+      aliado (possivelmente deixando de lado as rivalidades iniciais que eles tenham)."
+    - "O lugar que ser\xE1 invadido inclui uma popula\xE7\xE3o de pessoas inocentes,
+      mercadorias fr\xE1geis ou alguma outra coisa preciosa que n\xE3o deve ser prejudicada
+      no fogo cruzado."
+  - title: "Os Protagonistas precisam limpar, exterminar, destruir elementos perigosos
+      de uma \xE1rea, regi\xE3o, local, constru\xE7\xE3o, base espacial, etc. Os
+      alvos dessa \u201Climpeza\u201D pode ser algum tipo de criatura, monstro, Antagonistas,
+      perigos biol\xF3gicos, etc."
+    results:
+    - "Os alvos dos Protagonistas n\xE3o podem ser derrotados em confrontos diretos.
+      Uma estrat\xE9gia precisa ser desenvolvida."
+    - Os Protagonistas devem aprender mais sobre o perigo a ser exterminado para
+      resolver o problema.
+    - Os Protagonistas acabam virando presas de seus alvos.
+    - "Os alvos se revelam serem completamente diferentes do que os Protagonistas
+      imaginavam e n\xE3o merecem ser exterminados."
+  - title: "Os Protagonistas precisam ca\xE7ar um tesouro, um objeto, um Coadjuvante,
+      que lhes oferecer\xE1 grandes recompensas."
+    results:
+    - "O tesouro em si \xE9 algo perigoso."
+    - "O tesouro n\xE3o est\xE1 onde se esperava, e sim uma armadilha para os Protagonistas.
+      O Tesouro se encontra em um lugar onde os Protagonistas menos esperam."
+    - "O tesouro \xE9 propriedade de um Antagonista ou uma Fac\xE7\xE3o Hostil muito
+      perigosa."
+    - "O tesouro tem seus pr\xF3prios planos, \xE9 amaldi\xE7oado, causa muitos problemas
+      para os Protagonistas ou os for\xE7a a tomarem decis\xF5es dif\xEDceis."
+  - title: "Os Protagonistas est\xE3o isolados e precisam sobreviver em um local
+      hostil, sem recursos, comida, ra\xE7\xF5es, etc."
+    results:
+    - "Os Protagonistas devem sobreviver apenas por um curto per\xEDodo de tempo,
+      at\xE9 que a ajuda chegue, um ve\xEDculo ou r\xE1dio sejam reparados, ou algo
+      parecido."
+    - "Os Protagonistas s\xE3o atacados por algo misterioso e perigoso nesse local
+      hostil que os impede de fugir."
+    - Os Protagonistas se alimentam de algo nesse local hostil que causa efeitos
+      colaterais bizarros, perigosos ou inesperados, como um deles se transformando
+      em um monstro, etc.
+  - title: "Os Protagonistas precisam resolver um mist\xE9rio realizando uma investiga\xE7\xE3o,
+      um trabalho de detetive, interrogar suspeitos, recolher provas, etc."
+    results:
+    - "Os Protagonistas est\xE3o trabalhando para inocentar um Coadjuvante injustamente
+      acusado, ou para livrar a si mesmos de uma acusa\xE7\xE3o falsa."
+    - Os Protagonistas devem trabalhar junto ou contra um Coadjuvante investigador
+      que pode ser um Antagonista ou um Aliado.
+    - "No meio da aventura, os Protagonistas s\xE3o \"retirados do caso\", com o
+      Coadjuvante que os contratou ou pediu que os ajudasse ordenando que parem de
+      investigar e que esque\xE7am do assunto. Geralmente, isso acontece como resultado
+      de manobras pol\xEDticas de um Antagonista."
+    - "O cl\xEDmax dessa aventura \xE9 uma cena de tribunal ou algum tipo de teste
+      ou arena de julgamento."
+    - "O mist\xE9rio pode ser pequeno, como um assassinato ou grande, como uma amea\xE7a
+      para toda a regi\xE3o ou todo o planeta."
+  - title: Os Protagonistas precisam levar, conduzir, carregar, fazer uma viagem
+      com algum tipo de Carga; seja um objeto, uma criatura, um Coadjuvante ou um
+      grupo de Coadjuvantes para um determinado Destino.
+    results:
+    - "O que est\xE1 sendo levado \xE9 problem\xE1tico, perigoso, rebelde, incontrol\xE1vel,
+      malicioso e tenta escapar dos Protagonistas, ou alterar o destino da entrega."
+    - "O destino da entrega foi destru\xEDdo ou subornado pelos Antagonistas, e os
+      Protagonistas devem assumir o trabalho, a fun\xE7\xE3o, a miss\xE3o que a carga
+      deveria fazer quando chegasse l\xE1."
+    - "O Coajduvante que est\xE1 sendo levado n\xE3o deseja chegar ao Destino, onde
+      algo horr\xEDvel lhe aguarda, e pede ajuda para os Protagonistas."
+    - "A chegada segura ao destino n\xE3o termina a hist\xF3ria; os Protagonistas
+      podem n\xE3o receber o que lhes devem, ou ningu\xE9m os recebem no Destino,
+      ou algum rev\xE9s. Os Protagonistas devem ent\xE3o negociar o que ir\xE3o fazer
+      com a Carga."
+    - "Os Protagonistas devem proteger a Carga sem que a Carga tenha consci\xEAncia
+      disso."
+    - Ao chegar ao Destino a Carga revela sua verdadeira identidade.
+  - title: "Os Protagonistas precisam substituir Coadjuvantes Veteranos de algum
+      lugar espec\xEDfico em alguma situa\xE7\xE3o perigosa, seja porque os Coadjuvantes
+      Veteranos est\xE3o velhos demais para fazer algo, doentes, machucados, etc
+      e n\xE3o podem mais liderar outros Coadjuvantes frente a uma Grande Amea\xE7a
+      ou aos planos de um Antagonista ou Fac\xE7\xE3o Hostil."
+    results:
+    - "Os Protagonistas foram enganados, e os Coadjuvantes Veteranos trabalham para
+      as for\xE7as Antagonistas em troca de alguma recompensa."
+    - "Os demais Coadjuvantes se ressentem dos Protagonistas pois preferiam os Coadjuvantes
+      Veteranos e o jeito deles. Os Protagonistas precisam ganhar a confian\xE7a
+      dos Coadjuvantes que tem que liderar, organizar, ou salvar."
+  - title: "Os Protagonistas s\xE3o uma for\xE7a de ajuda, um grupo de resgate ou
+      uma tropa de refor\xE7os, que precisa chegar a algum lugar perigoso, zona de
+      combate, zona de ocupa\xE7\xE3o para ajudar um \xFAnico ou um grupo de Coadjuvantes."
+    results:
+    - "Um ou mais Coadjuvantes foram feitos de ref\xE9m, ou est\xE3o sitiados pelas
+      for\xE7as inimigas, e os Protagonistas devem lidar com os seus captores ou
+      quebrar o cerco."
+    - "A tentativa de resgate dos Protagonistas gera ainda mais problemas para os
+      Coadjuvantes V\xEDtimas devido a situa\xE7\xE3o do local, \xE0 um evento inesperado,
+      \xE0 condi\xE7\xF5es clim\xE1ticas adversas (como uma tempestade s\xFAbida,
+      um terremoto), ou devido \xE0 sabotagem de Coadjuvantes Espi\xF5es ou Traidores."
+    - "Ao chegar no local de resgate, o que ser\xE1 resgatado \xE9 completamente
+      diferente do que o que foi informado aos Protagonistas"
+    - "A \"v\xEDtima\" n\xE3o percebe que precisa ser resgatada; ele acha que est\xE1
+      fazendo algo razo\xE1vel ou seguro, e que n\xE3o est\xE1 correndo perigo."
+    - "Ao chegar no local de resgate, a verdadeira ame\xE7aa \xE9 um desastre natural,
+      uma s\xFAbita condi\xE7\xE3o clim\xE1tica adversa ou o surto de alguma doen\xE7a."
+    - "Os Protagonistas n\xE3o conseguem sair do local por algum motivo, ou algo
+      precisa ser resolvido antes deles sairem do local."
+  - title: "Os Protagonistas precisa descobrir e invadir uma Base Secreta, Fortaleza
+      Escondida, Local Oculto que serve de base para os Antagonistas, antes que Algo
+      Horr\xEDvel aconte\xE7a."
+    results:
+    - Os Protagonistas precisam usar de espionagem, disfarce ou de algum Coadjuvante
+      Aliado para descobrir ou penetrar na Base Secreta.
+    - "A Base Secreta era na verdade uma armadilha para capturar os Protagonistas,
+      ou os ocupantes j\xE1 sabiam que eles estavam invadindo."
+    - "A Base Secreta revela que os supostos Antagonistas est\xE3o trabalhando em
+      algo positivo, e que o verdadeiro vil\xE3o \xE9 o Coadjuvante ou a Fac\xE7\xE3o
+      que contratou ou passou a miss\xE3o de invas\xE3o para os Protagonistas."
+  - title: "Os Protagonistas precisam levar ou entregar algo ou algu\xE9m para que
+      duas ou mais Fac\xE7\xF5es Rivais fa\xE7am as pazes ou para evitar uma guerra
+      ou conflito sangrento."
+    results:
+    - "Esse algo ou algu\xE9m \xE9 destru\xEDdo, morre, ou \xE9 estraviado durante
+      o transporte, e os Protagonistas precisam fazer algo para prevenir o conflito
+      entre as Fac\xE7\xF5es."
+    - "Uma terceira Fac\xE7\xE3o interfere na situa\xE7\xE3o e torna o conflito inevit\xE1vel."
+  - title: "Os Protagonistas s\xE3o alvos de ataques de Antagonistas e precisam descobrir
+      a raz\xE3o desses ataques."
+    results:
+    - "Os Protagonistas t\xEAm algo que os Antagonistas querem, mas eles n\xE3o percebem
+      isso necessariamente."
+    - "Os Antagonistas est\xE3o se vingando por causa de um outro Antagonista morto
+      pelos Protagonistas em uma aventura anterior."
+    - Os Antagonistas confundiram os Protagonistas com outros Coadjuvantes, estes
+      sim o alvo de seus ataques.
+  - title: "Os Protagonistas precisam Ca\xE7ar algo ou algu\xE9m em um per\xEDodo
+      de tempo limitado, caso contr\xE1rio, mais desgra\xE7as acontecer\xE3o."
+    results:
+    - "O alvo da Ca\xE7ada foi sequestrado por um Antagonista, possivelmente para
+      atrair especificamente os Protagonistas."
+    - "O alvo \xE9 perigoso e escapou de uma pris\xE3o, hosp\xEDcio ou instala\xE7\xE3o
+      projetada para proteger o p\xFAblico de sua amea\xE7a."
+    - "O alvo \xE9 valioso e escapou de um local ou laborat\xF3rio onde foi criado
+      para fins perigosos."
+    - "O alvo tem um motivo para fugir com o qual os Protagonistas poder\xE3o concordar."
+    - "O alvo \xE9 algu\xE9m que os Protagonistas j\xE1 conhecem."
+    - "O alvo n\xE3o \xE9 perigoso e est\xE1 sendo acusado injustamente."
+  - title: "Os Protagonistas est\xE3o em uma situa\xE7\xE3o perigosa mas n\xE3o se
+      lembram de como chegaram l\xE1 nem o que precisam fazer."
+    results:
+    - "Os Protagonistas suprimiram ou apagaram voluntariamente as mem\xF3rias por
+      algum motivo importante."
+    - "Um Antagonista est\xE1 por tr\xE1s do que est\xE1 acontecendo e se for derrotado,
+      as mem\xF3rias voltar\xE3o."
+    - "Os Protagonistas precisam recolher objetos, coisas ou conversar com Coadjuvantes
+      para recuperar suas mem\xF3rias."
+  - title: "Os Protagonistas foram transportados, teleportados, sequestrados, ou
+      levados de alguma forma para um local estranho, que n\xE3o conhecem e de onde
+      precisam sair para voltar para onde vieram."
+    results:
+    - "Eles foram trazidos para l\xE1 especificamente para ajudar algu\xE9m com problemas."
+    - "Eles foram levados para l\xE1 por acidente, como subproduto de algo estranho
+      e secreto."
+    - "Alguns dos Antagonistas dos Protagonistas foram transportados junto com eles
+      (ou separadamente), e agora eles t\xEAm um novo campo de batalha e/ou Coadjuvantes
+      inocentes para convencer que eles, os Protagonistas, e n\xE3o os Antagonistas,
+      que est\xE3o do lado certo ou que s\xE3o pessoas de bem."
+  - title: "Os Protagonistas abrem algo, libertam algo, ou causam a soltura de algo
+      horrendo, terr\xEDvel, amea\xE7ador, perigoso, destruidor; seja um monstro,
+      uma maldi\xE7\xE3o, um criminoso, uma amea\xE7a biol\xF3gica, e agora precisam
+      lidar com as consequ\xEAncias."
+    results:
+    - "Os Protagonistas precisam prender novamente o que libertaram antes que algo
+      horrendo aconte\xE7a ou antes de um limite de tempo."
+    - "Os Protagonistas ficam divididos entre duas ou mais  consequ\xEAncias negativas
+      do que causaram e precisam resolv\xEA- las antes de prender novamente o que
+      libertaram."
+    - "Um livro secreto, c\xF3digo, uma magia, uma equa\xE7\xE3o, um Coadjuvante
+      com a solu\xE7\xE3o, ou outro elemento \xE9 necess\xE1rio ser obtido para prender
+      novamente o que foi libertado."
+    - O que foi liberto volta no tempo e altera a realidade, exceto para os Protagonistas
+      que o libertaram. Os Protagonistas precisam voltar no tempo para corrigir o
+      que fizeram.
+  - title: "Os Protagonistas precisam reunir as Partes de um Objeto importante, poderoso,
+      vital, precioso, perigoso, assustador para evitar algo pior, ou para receber
+      uma grande recompensa, ou para impedir o plano mal\xE9volo de algum Antagonista."
+    results:
+    - "O Objeto est\xE1 incompleto mesmo depois de reunida todas as partes e os Protagonistas
+      precisam descobrir qual \xE9 a parte que falta."
+    - "Algu\xE9m j\xE1 o possui o Objeto completo, ou um Antagonista rouba o Objeto
+      completo assim que os Protagonistas terminam de completar."
+    - "O Objeto \xE9 na verdade apenas uma maneira de chegar \xE0 uma informa\xE7\xE3o,
+      uma ideia, uma magia, um conhecimento proibido, um local secreto ou algo que
+      n\xE3o seja f\xEDsico, mas que \xE9 descoberto depois que o Objeto \xE9 completado."
+    - "Os Protagonistas precisam se disfar\xE7ar e infiltrar em um grupo ou sociedade
+      secreta, para conseguir as Partes do Objeto ou o Objeto completo."
+  - title: "Os Protagonistas precisam investigar Ru\xEDnas ou um Local Abandonado
+      para descobrir um Mist\xE9rio, parar um plano de um Antagonista, evitar uma
+      Cat\xE1strofe ou algo semelhante."
+    results:
+    - "O que quer que tenha criado as Ru\xEDnas ou destru\xEDdo o que antes havia
+      nas Ru\xEDnas, seja uma radia\xE7\xE3o estranha, monstros, uma nova ra\xE7a,
+      fantasmas, alien\xEDgenas, amea\xE7as biol\xF3gicas, maldi\xE7\xF5es ainda
+      \xE9 uma amea\xE7a para o presente e os Protagonistas precisam descobrir uma
+      maneira de venc\xEA-la."
+    - "Os habitantes ainda vivem, mas guardam um terr\xEDvel segredo, e atacam, emboscam
+      ou entram em contato com os Protagonistas."
+    - "As \"ru\xEDnas\" s\xE3o na verdade uma nave espacial abandonada, recentemente
+      descoberta."
+    - "As \u201Cru\xEDnas\u201D s\xE3o na verdade uma ilus\xE3o criada pelos antigos
+      habitantes para ocultar as verdadeiras Ru\xEDnas onde est\xE1 aquilo que os
+      Protagonistas procuram."
+  - title: "Os Protagonistas fazem parte de um grupo que parte para um Safari, uma
+      Ca\xE7ada em um local Selvagem, ou algo semelhante, em busca de um Monstro,
+      Fera, Animal, Criatura selvagem muito valiosa, ou que est\xE1 causando grande
+      destrui\xE7\xE3o, ou impedindo o desenvolvimento de algum projeto, plano, constru\xE7\xE3o
+      de um Coadjuvante Importante e Poderoso."
+    results:
+    - "A criatura alvo \xE9 imune a seus dispositivos, magias, armas, drogas, etc.
+      Os Protagonistas precisam descobrir uma maneira de derrot\xE1-la ou captur\xE1-la."
+    - "Existem Antagonistas ou Grupos Antagonistas protegendo ativamente a criatura
+      alvo da Ca\xE7ada."
+    - "O covil da Criatura guarda mist\xE9rios e leva os Protagonistas para uma outra
+      Aventura."
+  - title: "Os Protagonistas entram em uma Competi\xE7\xE3o onde eles ter\xE3o que
+      superar Grupos Rivais para conseguir um pr\xEAmio, impedir um plano de um Antagonista
+      ou evitar uma Cat\xE1strofe."
+    results:
+    - "Os outros competidores s\xE3o menos honestos, e os Protagonistas devem superar
+      suas tentativas de vencer desonestamente."
+    - "Os Protagonistas est\xE3o competindo por um prop\xF3sito mais profundo do
+      que a vit\xF3ria, como impedir que um Grupo Rival, ou espionar um Grupo Rival
+      ou o Coadjuvante Importante que organizou a competi\xE7\xE3o, ou apenas para
+      entrar em um Local Importante onde a Competi\xE7\xE3o acontece, para cumprir
+      algum tipo de Objetivo de Miss\xE3o."
+    - "Os Protagonistas n\xE3o desejam vencer; eles apenas desejam impedir que um
+      Grupo Rival ven\xE7a pois isso ir\xE1 causar Consequ\xEAncias Negativas ou
+      uma Cat\xE1strofe."
+    - "A Competi\xE7\xE3o \xE9 um teste deliberado das habilidades dos Protagonistas,
+      para serem selecionados para uma organiza\xE7\xE3o ou para uma Miss\xE3o, por
+      exemplo."
+    - "A Competi\xE7\xE3o se torna mais mortal do que deveria por causa das a\xE7\xF5es
+      de um Antagonista, ou de um Grupo Rival."
+  - title: "Os Protagonistas foram presos por algum motivo e precisam sobreviver
+      na Pris\xE3o onde come\xE7am a aventura e arrumar uma maneira de Escapar."
+    results:
+    - "Algo aconteceu no mundo exterior e a seguran\xE7a da pris\xE3o fica relaxada
+      ou prejudicada por causa disso."
+    - "Os Protagonistas foram contratados para \"testar\" a pris\xE3o - eles n\xE3o
+      s\xE3o presos normais. Entretanto, algo inesperado acontece e eles realmente
+      se tornam prisioneiros."
+    - "Outros presos decidem atacar os Protagonistas por vingan\xE7a ou por ordens
+      de um Antagonista."
+    - "Os Protagonistas est\xE3o disfar\xE7ados para espionar um prisioneiro, mas
+      s\xE3o confundidos com presos reais e mantidos encarcerados."
+    - "Os Protagonistas devem escapar em tempo limitedo para evitar uma cat\xE1strofe,
+      desastre ou os planos de um Antagonista."
+  - title: "Os Protagonistas devem trabalhar ao lado de um Antagonista ou de um Grupo
+      Antagonista, antigos rivais ou um vil\xE3o derrotado anteriormente, para combater
+      algo muito pior, evitar uma Cat\xE1strofe ou parar os planos de um outro Antagonista
+      ou Grupo Antagonista."
+    results:
+    - "O Antagonista transformado em Aliado trai os Protagonistas no cl\xEDmax da
+      aventura."
+    - O Antagonista transformado em Aliado se sacrifica para salvar os Protagonistas.
+  - title: "Os Protagonistas s\xE3o envolvidos em um Conflito que s\xF3 pode ser
+      resolvido sem viol\xEAncia e com o uso de diplomacia. Qualquer a\xE7\xE3o violenta
+      levar\xE1 a consequ\xEAncias muito piores."
+    results:
+    - "A solu\xE7\xE3o envolve o sacrif\xEDcio de algo que os Protagonistas possuem
+      e valorizam."
+    - "A solu\xE7\xE3o pac\xEDfica \xE9 tempor\xE1ria e leva a um conflito violento
+      que precisa ser resolvido com outra solu\xE7\xE3o pac\xEDfica."
+    - "Os Protagonistas devem ter sucesso sem acesso a pot\xEAncias, equipamentos
+      ou outros recursos aos quais est\xE3o acostumados."
+  - title: "Os Protagonistas recebem uma Miss\xE3o, por\xE9m, ao come\xE7\xE1-la,
+      eles descobrem que um outro grupo de aventureiros falhou em ter sucesso nessa
+      miss\xE3o, e seus corpos, equipamentos, etc, fornecem pistas para ajudar os
+      Protagonistas a se sa\xEDrem melhor."
+    results:
+    - "Durante essa miss\xE3o, os Protagonistas descobrem um outro Grupo de Coadjuvantes
+      vivo, por\xE9m amea\xE7ado por algo que tamb\xE9m amea\xE7a os Protagonistas."
+    - "A Miss\xE3o \xE9 uma Armadilha criada pelo Coadjuvante ou Grupo que contratou
+      os Protagonistas."
+  - title: "Os Protagonistas, para cumprir uma Miss\xE3o, devem fingir serem outras
+      pessoas ou fingir ser eles mesmos, mas com alian\xE7as, valores ou gostos muito
+      diferentes, ou opostos do que tinham antes."
+    results:
+    - "O disfarce dos Protagonistas \xE9 descoberto e eles precisam lidar com as
+      consequ\xEAncias."
+    - "Os verdadeiros Coadjuvantes que os Protagonistas est\xE3o imitando surgem
+      e confrontam os Protagonistas."
+  - title: "Um dos Protagonistas \xE9 (ou presume-se que seja) um herdeiro perdido
+      de um Coadjuvante Importante, o Escolhido de uma Profecia, o Salvador de uma
+      Comunidade, ou o Marcado por uma Maldi\xE7\xE3o e todos sofrem consequ\xEAncias
+      negativas por causa disso."
+    results:
+    - "O Protagonista Escolhido \xE9 alvo de Antagonista ou Grupos  Antagonistas,
+      que desejam mat\xE1-lo, sequestr\xE1-lo ou control\xE1- lo."
+    - "O Protagonista Escolhido n\xE3o \xE9 o verdadeiro Escolhido. Este aparece
+      ou precisa ser encontrado pelos Protagonistas, para sa\xEDrem da encrenca em
+      que se encontram."
+    - "O Protagonista Escolhido precisa fazer um sacrif\xEDcio pessoal para resolver
+      as consequ\xEAncias negativas de ter sido o Escolhido."
+    - O Protagonista Escolhido precisa decidir entre se tornar o Escolhido ou fugir,
+      escapar, rejeitar, encontrar um novo Escolhido.
+  - title: "Os Protagonistas n\xE3o precisam resolver o Problema Principal do Cen\xE1rio
+      da Aventura, apenas prestar assist\xEAncia para um Coadjuvante ou um Grupo
+      envolvido em um Problema Maior; seja embarque de suprimentos, conduzir algo
+      para algum lugar, ajudar em uma invas\xE3o ou miss\xE3o, etc."
+    results:
+    - "Os Protagonistas s\xE3o enganados e acabam envolvidos no Problema Principal,
+      seja por acusa\xE7\xE3o falsa, por uma armadilha, ou por mentiras do Coadjuvante
+      a quem estavam ajudando."
+    - "Os Protagonistas descobrem um Mist\xE9rio que revela que o Problema Principal
+      do Cen\xE1rio est\xE1 intimamente relacionado com um deles, seja uma liga\xE7\xE3o
+      pessoal ou seja porque a presen\xE7a deles \xE9 que gerou o problema."
+    - Existe um outro grupo de personagens semelhantes aos Protagonistas "competindo"
+      na mesma aventura, mas do lado oposto aos Protagonistas e com objetivos muito
+      diferentes.
