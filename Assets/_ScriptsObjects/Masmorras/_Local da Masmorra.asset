@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
+  m_Name: _Local da Masmorra
+  m_EditorClassIdentifier: 
+  hint: 
+  myTable:
+    title: _Local da Masmorra
+    results:
+    - Caverna ou Rede de Cavernas.
+    - Templo antigo dedicado a um Deus.
+    - "Ru\xEDnas \xE9lficas."
+    - Dentro de uma Criatura Gigantesca.
+    - "Dentro de um Objeto M\xE1gico."
+    - "Ru\xEDnas \xE9lficas."
+    - "Cidade An\xE3."
+    - Acampamento Inimigo.
+    - "Sanat\xF3rio Antigo."
+    - "Chega no lugar atrav\xE9s de um Portal M\xE1gico."
+    - Floresta.
+    - "P\xE2ntano."
+    - Praia.
+    - Em algum lugar fora do Plano Material.
+    - Escondido em um Ovo colossal.
+    - Deserto.
+    - No fundo do Mar.
+    - Em uma Ilha.
+    - No Esgoto de uma Grande Cidade.
+    - "Dentro de uma Est\xE1tua Colossal."
+    - "Num Plano Elemental do Fogo, Terra, \xC1gua, Ar."
+    - Numa Cadeia de Montanhas.
+    - Nas terras de um Poderoso Lorde.
+    - "Numa Ilha no centro de um Vulc\xE3o."
+    - Um antigo Forte Abandonado.
+    - No meio de rochas gigantes.
+    - Num vale silencioso.
+    - "No Interior de uma Pir\xE2mide."
+    - Fortaleza Voadora.
+    - Dentro de uma montanha.
+    - No topo de um Gigante Vivo que caminha eternamente.
+    - "Dentro do cad\xE1ver de um Deus."
+    - "Dentro de um ve\xEDculo gigante em movimento."
+    - "Nos subterr\xE2neos de uma cidade."
+    - Em uma torre gigantesca.
+    - Role duas vezes e combine os dois lugares. #
