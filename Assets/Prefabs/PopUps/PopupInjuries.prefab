@@ -33,8 +33,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -103}
-  m_SizeDelta: {x: 0, y: -206}
+  m_AnchoredPosition: {x: 0.0007324219, y: -64.68176}
+  m_SizeDelta: {x: -563.95, y: -624.9662}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &8072914312703545754
 MonoBehaviour:
@@ -49,15 +49,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 33
-    m_Right: 20
-    m_Top: 20
+    m_Left: 0
+    m_Right: 0
+    m_Top: 44
     m_Bottom: 20
-  m_ChildAlignment: 0
+  m_ChildAlignment: 1
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 350, y: 185}
-  m_Spacing: {x: 20, y: 20}
+  m_CellSize: {x: 293.9, y: 156.7}
+  m_Spacing: {x: 45.63, y: 55.43}
   m_Constraint: 1
   m_ConstraintCount: 2
 --- !u!1001 &1039169256600407003
@@ -79,6 +79,30 @@ PrefabInstance:
     - target: {fileID: 4431535865560783977, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
       propertyPath: m_Name
       value: PopupInjuries
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524942631275737436, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524942631275737436, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524942631275737436, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 178.1218
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524942631275737436, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -473.0466
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524942631275737436, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.75619507
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524942631275737436, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -13.9233
       objectReference: {fileID: 0}
     - target: {fileID: 7078711523086289863, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
       propertyPath: m_Pivot.x
