@@ -9,4 +9,9 @@ public enum PopupType
     SucessAndFail,
     AdventureAndPlot,
     SupportCharacter,
+    Monsters,
+    Missions,
+    Places,
+    Travel,
+    DungeonCreation,
 }
