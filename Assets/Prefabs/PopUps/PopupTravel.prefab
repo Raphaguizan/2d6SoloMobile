@@ -149,8 +149,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -7.2390137, y: -87.418686}
-  m_SizeDelta: {x: -478.1739, y: -605.8456}
+  m_AnchoredPosition: {x: -7.2390137, y: -104.007996}
+  m_SizeDelta: {x: -478.1739, y: -639.024}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &9125068918316576520
 MonoBehaviour:
@@ -170,7 +170,7 @@ MonoBehaviour:
     m_Top: 35
     m_Bottom: -21
   m_ChildAlignment: 1
-  m_Spacing: 0
+  m_Spacing: -67.97
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 0
@@ -372,6 +372,10 @@ PrefabInstance:
       propertyPath: m_text
       value: Viagem
       objectReference: {fileID: 0}
+    - target: {fileID: 8674435759478969771, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: m_fontSize
+      value: 127.45
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 7338944747308998002, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
@@ -394,6 +398,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7550586365583781247}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -623,6 +631,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3529941467048673175}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -746,6 +758,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 8924363710681919387}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -869,6 +885,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 508073334156522364}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -1310,6 +1330,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2920580056451753066}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField

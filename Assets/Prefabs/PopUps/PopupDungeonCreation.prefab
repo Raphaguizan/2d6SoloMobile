@@ -412,6 +412,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2904002674539816357}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -442,7 +446,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 385.029
+      value: 411.3573
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.y
@@ -478,7 +482,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 110.966934
+      value: 124.13106
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -535,6 +539,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 584478718144464325}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -565,7 +573,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 385.029
+      value: 411.3573
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.y
@@ -601,7 +609,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 110.966934
+      value: 124.13106
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -658,6 +666,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 5437347319306307633}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -688,7 +700,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 385.029
+      value: 411.3573
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.y
@@ -724,7 +736,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 110.966934
+      value: 124.13106
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1002,6 +1014,10 @@ PrefabInstance:
     - target: {fileID: 8674435759478969771, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
       propertyPath: m_text
       value: Nova Masmorra
+      objectReference: {fileID: 0}
+    - target: {fileID: 8674435759478969771, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: m_fontSize
+      value: 112.4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -1445,6 +1461,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 31636898190230490}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -1475,7 +1495,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 385.029
+      value: 411.3573
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.y
@@ -1511,7 +1531,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 110.966934
+      value: 124.13106
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1568,6 +1588,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 5440097301679822585}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -1598,7 +1622,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 385.029
+      value: 411.3573
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.y
@@ -1634,7 +1658,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 110.966934
+      value: 124.13106
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1797,6 +1821,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 4991450564291943916}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -1827,7 +1855,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 385.029
+      value: 411.3573
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.y
@@ -1863,7 +1891,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 110.966934
+      value: 124.13106
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1920,6 +1948,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 4114007028505066633}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -1950,7 +1982,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 385.029
+      value: 411.3573
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.y
@@ -1986,7 +2018,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 110.966934
+      value: 124.13106
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -2149,6 +2181,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 4573179875609170223}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -2179,7 +2215,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 385.029
+      value: 411.3573
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.y
@@ -2215,7 +2251,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 110.966934
+      value: 124.13106
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -2274,6 +2310,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 4621341849615816474}
     m_Modifications:
+    - target: {fileID: 1760162150110877130, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
+      propertyPath: m_fontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5705918374643891405, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_Name
       value: SupportCharacterField
@@ -2304,7 +2344,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 385.029
+      value: 411.3573
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_SizeDelta.y
@@ -2340,7 +2380,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 110.966934
+      value: 124.13106
       objectReference: {fileID: 0}
     - target: {fileID: 6966479098434576284, guid: 586485d838a7b0f48a7f2b899eb63136, type: 3}
       propertyPath: m_AnchoredPosition.y
