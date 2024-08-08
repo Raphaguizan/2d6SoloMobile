@@ -11,8 +11,16 @@ public class PopupManager : Game.Util.Singleton<PopupManager>
     [SerializeField]
     private Transform popupContent;
 
+    [SerializeField]
+    private AudioSource popupCloseSound;
+
     private List<GameObject> myPopups = new();
 
+
+    public static void PlayCloseSound()
+    {
+        Instance.popupCloseSound?.Play();
+    }
     public static PopupBase OpenPopUp(PopupType popupType)
     {
 

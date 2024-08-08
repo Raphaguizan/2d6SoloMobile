@@ -14,4 +14,5 @@ public enum PopupType
     Places,
     Travel,
     DungeonCreation,
+    Options
 }

@@ -30,5 +30,6 @@ public class PopupBase : MonoBehaviour
     public virtual void ClosePopup()
     {
         gameObject.SetActive(false);
+        PopupManager.PlayCloseSound();
     }
 }
