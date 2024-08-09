@@ -15,10 +15,9 @@ public class SoundManager : Game.Util.Singleton<SoundManager>
     private void Start()
     {
         if (PlayerPrefs.HasKey(SFXSaveName))
-        {
             VolumeSFX(PlayerPrefs.GetInt(SFXSaveName));
+        if (PlayerPrefs.HasKey(MusicSaveName))
             VolumeMusic(PlayerPrefs.GetFloat(MusicSaveName));
-        }
     }
 
     public static void VolumeSFX(int value)
