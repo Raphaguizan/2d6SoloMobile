@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
-  m_Name: "_Cabe\xE7a do Monstro"
+  m_Name: "Cabe\xE7a do Monstro"
   m_EditorClassIdentifier: 
   hint: 
   myTable:
-    title: "_Cabe\xE7a do Monstro"
+    title: "Cabe\xE7a do Monstro"
     results:
     - Boca com Presas - sutis ou pronunciadas
     - "Olhos semicerrados - resist\xEAncia ao brilho e (talvez) vis\xE3o aprimorada"

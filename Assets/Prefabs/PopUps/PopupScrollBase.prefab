@@ -68,8 +68,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Content
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d9aa26055e939be479427022813ba040, type: 2}
+  m_sharedMaterial: {fileID: -6297055444751962520, guid: d9aa26055e939be479427022813ba040, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -358,6 +358,10 @@ PrefabInstance:
       propertyPath: contentText
       value: 
       objectReference: {fileID: 7552903469121576439}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintPopupButton
+      value: 
+      objectReference: {fileID: 4935152820704407984}
     - target: {fileID: 4431535865560783977, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
       propertyPath: m_Name
       value: PopupScrollBase
@@ -452,6 +456,17 @@ PrefabInstance:
       addedObject: {fileID: 3715554976012877663}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+--- !u!114 &4935152820704407984 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8364630150139626001, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+  m_PrefabInstance: {fileID: 3488052866722182049}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4f8ba762e3ce424895eedf75edf0e6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!224 &7702647789485556477 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6524942631275737436, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}

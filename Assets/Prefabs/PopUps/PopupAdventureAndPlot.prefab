@@ -165,7 +165,21 @@ MonoBehaviour:
   myType: 4
   titleText: {fileID: 6419087973039232785}
   contentText: {fileID: 8776855930215099628}
+  hintPopupButton: {fileID: 6152415240904802475}
+  hintTables:
+  - {fileID: 11400000, guid: a324c87ae75a4064f802a7034e52709a, type: 2}
   scrowView: {fileID: 1190550122073295736}
+--- !u!114 &6152415240904802475 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4935152820704407984, guid: 9ccc84b709bede54dae1df88659cd53d, type: 3}
+  m_PrefabInstance: {fileID: 1233117990108459291}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4f8ba762e3ce424895eedf75edf0e6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &6419087973039232785 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5190896405445781002, guid: 9ccc84b709bede54dae1df88659cd53d, type: 3}

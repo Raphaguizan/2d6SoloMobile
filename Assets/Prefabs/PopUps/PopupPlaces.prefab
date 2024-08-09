@@ -740,6 +740,26 @@ PrefabInstance:
       propertyPath: contentText
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintPopupButton
+      value: 
+      objectReference: {fileID: 2987572485749111620}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 8e907aaab650b5543a221a203c79f562, type: 2}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: c402056053b2d0d40abd6b4c127228f3, type: 2}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: 9ce313d4257bbab4dbede5fed3578de5, type: 2}
     - target: {fileID: 4431535865560783977, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
       propertyPath: m_Name
       value: PopupPlaces
@@ -876,6 +896,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 6524942631275737436, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
   m_PrefabInstance: {fileID: 6728623674759723349}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &2987572485749111620 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8364630150139626001, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+  m_PrefabInstance: {fileID: 6728623674759723349}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4f8ba762e3ce424895eedf75edf0e6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &7811827394127817140
 PrefabInstance:
   m_ObjectHideFlags: 0

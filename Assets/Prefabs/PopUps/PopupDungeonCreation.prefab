@@ -911,6 +911,46 @@ PrefabInstance:
       propertyPath: contentText
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintPopupButton
+      value: 
+      objectReference: {fileID: 6084761234667550674}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 031bb2017bd247b428c769468f73e261, type: 2}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: b609eff102849f44c87199201edc824e, type: 2}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: 001efa3d4e42c1e4d9b9a8721f1a9d52, type: 2}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.data[3]
+      value: 
+      objectReference: {fileID: 11400000, guid: 11dedaa1b8f66f5439de193ebb29964b, type: 2}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.data[4]
+      value: 
+      objectReference: {fileID: 11400000, guid: d7777b7175b8171469aed7f52e6433dd, type: 2}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.data[5]
+      value: 
+      objectReference: {fileID: 11400000, guid: 691b4396ec513f24899aabacafc418f5, type: 2}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.data[6]
+      value: 
+      objectReference: {fileID: 11400000, guid: 9ab6ea37bb42efe4fb65824f5b4a7665, type: 2}
+    - target: {fileID: 3267882781318401371, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+      propertyPath: hintTables.Array.data[7]
+      value: 
+      objectReference: {fileID: 11400000, guid: af41006edf061634ab859b2ae6cda52c, type: 2}
     - target: {fileID: 4175591742813924518, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
       propertyPath: m_SizeDelta.y
       value: 116.1431
@@ -1028,6 +1068,17 @@ PrefabInstance:
       addedObject: {fileID: 6997218955279314395}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+--- !u!114 &6084761234667550674 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8364630150139626001, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+  m_PrefabInstance: {fileID: 2334070597152503235}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4f8ba762e3ce424895eedf75edf0e6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!224 &8856619040618792095 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6524942631275737436, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}

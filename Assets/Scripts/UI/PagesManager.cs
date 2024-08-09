@@ -31,7 +31,12 @@ public class PagesManager : Singleton<PagesManager>
         Instance.pagesStack.Push(page);
         
         if(sound)
-            Instance.passPageSound.Play();
+            PlayPageSound();
+    }
+
+    public static void PlayPageSound()
+    {
+        Instance.passPageSound.Play();
     }
 
     public static void ReturnPage(bool sound = true)

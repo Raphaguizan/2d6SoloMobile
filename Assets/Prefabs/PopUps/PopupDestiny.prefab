@@ -141,6 +141,9 @@ MonoBehaviour:
   myType: 1
   titleText: {fileID: 7070126852259565364}
   contentText: {fileID: 1003084681567751835}
+  hintPopupButton: {fileID: 7956393214435989646}
+  hintTables:
+  - {fileID: 11400000, guid: 14f68072583f21f49aef45eb285a5daf, type: 2}
   unexpectedEvents: {fileID: 11400000, guid: 9694023c753175046b9442670026bd64, type: 2}
 --- !u!114 &7070126852259565364 stripped
 MonoBehaviour:
@@ -151,5 +154,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7956393214435989646 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8364630150139626001, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}
+  m_PrefabInstance: {fileID: 1909503927759493791}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4f8ba762e3ce424895eedf75edf0e6f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

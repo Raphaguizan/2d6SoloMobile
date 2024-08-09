@@ -15,6 +15,12 @@ public class PopupBase : MonoBehaviour
     [SerializeField]
     protected TextMeshProUGUI contentText;
 
+    [Header("Hint")]
+    [SerializeField]
+    protected ButtonOpenHint hintPopupButton;
+    [SerializeField]
+    protected List<TableBase> hintTables;
+
 
     public PopupType MyType => myType;
     public virtual void InitializePopUp(TableBase newTable)
@@ -25,10 +31,27 @@ public class PopupBase : MonoBehaviour
         myTable = newTable;
 
         titleText.text = myTable.GetTitle();
+
+        if(hintTables.Count == 0)
+            hintTables.Add(newTable);
+
+        InitializeHint();
+    }
+
+    private void OnEnable()
+    {
+        InitializeHint();
+    }
+
+    protected virtual void InitializeHint()
+    {
+        if (hintTables.Count > 0)
+            hintPopupButton?.SetHint(hintTables);
     }
 
     public virtual void ClosePopup()
     {
+        hintTables.Clear();
         gameObject.SetActive(false);
         PopupManager.PlayCloseSound();
     }
