@@ -3634,11 +3634,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5827482123821484037, guid: da1fb3091c57e524ba4c34d7a78b070d, type: 3}
       propertyPath: m_text
-      value: Criar Lugar
+      value: Tema
       objectReference: {fileID: 0}
     - target: {fileID: 5827482123821484037, guid: da1fb3091c57e524ba4c34d7a78b070d, type: 3}
       propertyPath: m_fontSize
-      value: 71.6
+      value: 72
       objectReference: {fileID: 0}
     - target: {fileID: 6801043410226810716, guid: da1fb3091c57e524ba4c34d7a78b070d, type: 3}
       propertyPath: m_Name
