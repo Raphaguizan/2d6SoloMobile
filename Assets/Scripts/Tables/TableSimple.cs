@@ -51,6 +51,40 @@ public class TableSimple : TableBase
         return resp;
     }
 
+    public override string ToString()
+    {
+        string result = $"\t<b>{GetTitle()}</b>\n\n";
+
+        int step = 1;
+        int currentIndex = 1;
+        
+        if (Count() > 6)
+        {
+            step = 36 / Count();
+            currentIndex = 11;
+        }
+        int stepNum = step - 1;
+
+        for (int i = 0; i < Count(); i++) 
+        {
+            result += "<b>" + currentIndex + (step > 1 ? " - "+(currentIndex+ stepNum) : "" ) + "</b> - ";
+            result += myTable.GetResult(i)+"\n";
+
+            if (currentIndex % 10 == 6 - stepNum)
+                currentIndex += 5 + stepNum;
+            else
+                currentIndex += step;
+        }
+
+        return result;
+    }
+
+    [ContextMenu("Print")]
+    public void Print()
+    {
+        Debug.Log(ToString());
+    }
+
     #region update objectName
     protected override void Reset()
     {
