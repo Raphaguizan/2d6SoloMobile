@@ -12,7 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: Relacionamento do Coadjuvante com o Protagonista
   m_EditorClassIdentifier: 
-  hint: 
+  hint: "Use o Or\xE1culo das Intera\xE7\xF5es de Coadjuvantes todas as vezes\r\nque
+    voc\xEA quiser inspira\xE7\xE3o para os Coadjuvantes que o seu\r\nProtagonista
+    ir\xE1 encontrar.\nUse o Or\xE1culo dos Relacionamentos para criar\r\ninstantaneamente
+    relacionamentos entre os Protagonistas ou\r\nentre um Protagonista com um Coadjuvante.\r\nUse
+    as respostas como inspira\xE7\xE3o para a liga\xE7\xE3o entre os\r\npersonagens,
+    e adapte para a Fic\xE7\xE3o do Jogo."
   myTable:
     title: Relacionamento do Coadjuvante com o Protagonista
     results:

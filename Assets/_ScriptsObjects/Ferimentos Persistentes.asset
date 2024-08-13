@@ -12,7 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: Ferimentos Persistentes
   m_EditorClassIdentifier: 
-  hint: 
+  hint: "Quando voc\xEA quiser determinar um Ferimento Persistente,\r\nque ir\xE1
+    continuar a fazer efeito na Fic\xE7\xE3o de Jogo por um\r\nlongo tempo, determine
+    o tipo de dano que provocou a les\xE3o e\r\nrole na tabela apropriada abaixo
+    que corresponde ao tipo de\r\ndano.\r\nSe v\xE1rios tipos de dano causaram a
+    les\xE3o, use o tipo que\r\ncausou a maior parte do dano ou determine aleatoriamente
+    o\r\ntipo de dano a ser usado ao rolar para a les\xE3o persistente.\r\nEssas
+    tabelas assumem uma fisiologia humanoide t\xEDpica, mas\r\nvoc\xEA pode adaptar
+    os resultados para criaturas com diferentes\r\ntipos de corpo."
   myTable:
     title: Ferimentos Persistentes
     results: []

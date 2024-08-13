@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: Estado Emocional do Coadjuvante
   m_EditorClassIdentifier: 
-  hint: 
+  hint: "Use o Or\xE1culo das Intera\xE7\xF5es de Coadjuvantes todas as vezes\r\nque
+    voc\xEA quiser inspira\xE7\xE3o para os Coadjuvantes que o seu\r\nProtagonista
+    ir\xE1 encontrar.\nRole 1d6 para saber como est\xE1 o Coadjuvante no momento
+    em\r\nque \xE9 abordado pelo Protagonista\n"
   myTable:
     title: Estado Emocional do Coadjuvante
     results:

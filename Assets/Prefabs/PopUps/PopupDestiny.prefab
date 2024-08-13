@@ -145,6 +145,7 @@ MonoBehaviour:
   hintTables:
   - {fileID: 11400000, guid: 14f68072583f21f49aef45eb285a5daf, type: 2}
   unexpectedEvents: {fileID: 11400000, guid: 9694023c753175046b9442670026bd64, type: 2}
+  interventionsEvents: {fileID: 11400000, guid: d5db49a259cc55e4798b12087021835d, type: 2}
 --- !u!114 &7070126852259565364 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8674435759478969771, guid: 7432e7b5a7b51444ca7f03651fe7d3c3, type: 3}

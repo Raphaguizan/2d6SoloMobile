@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eec361b7e3eb2094e9e1b53710ef003f, type: 3}
   m_Name: Aventuras e Reviravoltas
   m_EditorClassIdentifier: 
-  hint: 
+  hint: "Siga as instru\xE7\xF5es abaixo para usar este or\xE1culo para criar uma\r\nAventura
+    Rapidamente e Introduzir Reviravoltas espec\xEDficas."
   tableTitle: Aventuras e Reviravoltas
   myTables:
   - title: "Os Protagonistas est\xE3o em meio a uma situa\xE7\xE3o dif\xEDcil, como

@@ -12,7 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: "N\xEDvel de Dificuldade"
   m_EditorClassIdentifier: 
-  hint: 
+  hint: "Use este or\xE1culo quando quiser determina aleatoriamente a\r\nclasse de
+    desafio de uma miss\xE3o, jornada ou de uma luta.\r\nAdapte a Dificuldade para
+    a Fic\xE7\xE3o do Jogo.\r\n\nF\xE1cil: Tarefas, obst\xE1culos, conflitos, inimigos,
+    perigos, lutas,\r\netc, que s\xE3o facilmente lidados pelo Protagonista e que
+    n\xE3o\r\nexigem testes.\r\nModerado: Tarefas, obst\xE1culos, conflitos, inimigos,
+    perigos,\r\nlutas, etc, que s\xE3o mais f\xE1cil do que os normalmente lidados\r\npelo
+    Protagonista, e que podem exigir testes, caso seja\r\nnecess\xE1rio.\r\nNormal:
+    Tarefas, obst\xE1culos, conflitos, inimigos, perigos,\r\nlutas, etc, que s\xE3o
+    normalmente lidados pelo Protagonista, e\r\nque podem exigir testes, caso seja
+    necess\xE1rio.\r\nDif\xEDcil: Tarefas, obst\xE1culos, conflitos, inimigos, perigos,
+    lutas,\r\netc, que oferecem desafio e perigo acima do normal ao\r\nProtagonista,
+    e que exigem testes.\r\n\r\n81\r\n\r\nMuito Dif\xEDcil: Tarefas, obst\xE1culos,
+    conflitos, inimigos, perigos,\r\nlutas, etc, que oferecem grande desafio e grande
+    perigo ao\r\nProtagonista, e que exigem testes.\r\nImposs\xEDvel: Tarefas, obst\xE1culos,
+    conflitos, inimigos, perigos,\r\nlutas, etc, que s\xE3o imposs\xEDveis para o
+    Protagonista. Ele s\xF3\r\npoder\xE1 fazer um teste caso fa\xE7a algo para reduzir
+    o n\xEDvel de\r\ndificuldade de Imposs\xEDvel para Muito Dif\xEDcil ou algum
+    grau\r\nmenor."
   myTable:
     title: "N\xEDvel de Dificuldade"
     results:

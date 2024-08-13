@@ -12,7 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: Nomes
   m_EditorClassIdentifier: 
-  hint: 
+  hint: "Use esse or\xE1culo para gerar novos personagens coadjuvantes\r\nrapidamente
+    para o seu jogo de RPG Solo!\n\nEssa tabela foi criada para ser usada em cen\xE1rios
+    de fantasia\r\nou fic\xE7\xE3o cient\xEDfica, onde nomes ex\xF3ticos s\xE3o mais
+    comuns.\r\nDefina primeiro se voc\xEA quer um nome pequeno (uma ou duas\r\ns\xEDlabas)
+    ou um nome grande (tr\xEAs s\xEDlabas).\r\nRole 2d6 Dezena-Unidade e escolha
+    um dos cinco nomes do\r\nn\xFAmero rolado."
   myTable:
     title: Nomes
     results:

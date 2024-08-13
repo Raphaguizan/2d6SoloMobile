@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: "A\xE7\xF5es dos Coadjuvantes"
   m_EditorClassIdentifier: 
-  hint: 
+  hint: "Use o Or\xE1culo das Intera\xE7\xF5es de Coadjuvantes todas as vezes\r\nque
+    voc\xEA quiser inspira\xE7\xE3o para os Coadjuvantes que o seu\r\nProtagonista
+    ir\xE1 encontrar.\nEsse Or\xE1culo simula motiva\xE7\xF5es, pedidos e a\xE7\xF5es
+    dos\r\nCoadjuvantes."
   myTable:
     title: "A\xE7\xF5es dos Coadjuvantes"
     results:

@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: "Duas Op\xE7\xF5es"
   m_EditorClassIdentifier: 
-  hint: 
+  hint: "Quando voc\xEA quiser decidir entre duas Op\xE7\xF5es, fa\xE7a uma\r\npergunta
+    com uma Primeira Op\xE7\xE3o e uma Segunda Op\xE7\xE3o."
   myTable:
     title: "Duas Op\xE7\xF5es"
     results:

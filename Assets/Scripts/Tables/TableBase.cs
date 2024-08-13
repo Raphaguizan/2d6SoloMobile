@@ -1,10 +1,11 @@
+using NaughtyAttributes;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class TableBase : ScriptableObject, ITable
 {
-    [SerializeField]
+    [SerializeField, TextArea]
     protected string hint;
 
     public string Hint => hint;

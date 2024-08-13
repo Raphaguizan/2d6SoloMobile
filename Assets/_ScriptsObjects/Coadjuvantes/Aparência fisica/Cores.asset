@@ -12,7 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: Cores
   m_EditorClassIdentifier: 
-  hint: 
+  hint: 'CORES DE OLHOS, CABELOS,
+
+    ROUPAS, ETC.
+
+    Role 2d6 Dezena-Unidade
+    e selecione uma ou mais de cada
+
+    resultado.'
   myTable:
     title: Cores
     results:

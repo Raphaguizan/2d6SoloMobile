@@ -12,7 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: Surpresa ao Entrar em uma Sala da Masmorra
   m_EditorClassIdentifier: 
-  hint: 
+  hint: 'O que acontece quando os Protagonistas entram em uma Sala
+
+    da Masmorra
+    com Antagonistas (Monstros ou Inimigos):
+
+    Role 1d6'
   myTable:
     title: Surpresa ao Entrar em uma Sala da Masmorra
     results:
