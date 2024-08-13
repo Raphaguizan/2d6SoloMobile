@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class PopupAdventureAndPlot : PopupBase
 {
     [SerializeField]
-    private ScrollRect scrowView;
+    private ScrollRect scrollView;
     public override void InitializePopUp(TableBase newTable)
     {
         base.InitializePopUp(newTable);
@@ -14,6 +14,6 @@ public class PopupAdventureAndPlot : PopupBase
         (myTable as TableDouble).SetConnectionWord("Reviravolta");
         string myText = myTable.GetResult();
         contentText.text = myText;
-        scrowView.verticalNormalizedPosition = 1;
+        scrollView.verticalNormalizedPosition = 1;
     }
 }

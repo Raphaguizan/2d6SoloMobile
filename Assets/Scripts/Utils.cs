@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 namespace Game.Util
@@ -24,6 +25,30 @@ namespace Game.Util
         public static float Remap(this float s, float a1, float a2, float b1, float b2)
         {
             return b1 + (s - a1) * (b2 - b1) / (a2 - a1);
+        }
+
+        public static List<string> Split(this string str, int chunkSize)
+        {
+            List<string> list = new();
+            for (int i = 0; i < (str.Length/chunkSize)+1; i++)
+            {
+                if(i == (str.Length / chunkSize))
+                {
+                    list.Add(str.Substring(i * chunkSize));
+                    break;
+                }
+                list.Add(str.Substring(i*chunkSize, chunkSize));
+            }
+
+            return list;
+            //if(str.Length <= chunkSize)
+            //{
+            //    return Enumerable.Range(0, 1)
+            //        .Select(i => str);
+            //}
+
+            //return Enumerable.Range(0, str.Length / chunkSize)
+            //    .Select(i => str.Substring(i * chunkSize, chunkSize));
         }
     }
 }

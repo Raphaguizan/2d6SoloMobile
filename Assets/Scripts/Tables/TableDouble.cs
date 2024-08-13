@@ -54,6 +54,24 @@ public class TableDouble : TableBase
         return myTables[lastTableIndex].GetResult(index);
     }
 
+    public override string ToString()
+    {
+        string result = $"\t<b>{GetTitle()}</b>\n\n";
+
+        for (int i = 0; i < myTables.Count; i++)
+        {
+            result += myTables[i].ToString()+"\n";
+        }
+
+        return result;
+    }
+
+    [ContextMenu("Print")]
+    public void Print()
+    {
+        Debug.Log(ToString());
+    }
+
     #region update objectName
     protected override void Reset()
     {
