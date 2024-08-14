@@ -15,25 +15,20 @@ MonoBehaviour:
   hint: "Use este or\xE1culo quando quiser determina aleatoriamente a classe de desafio
     de uma miss\xE3o, jornada ou de uma luta. Adapte a Dificuldade para a Fic\xE7\xE3o
     do Jogo.\n\nF\xE1cil: Tarefas, obst\xE1culos, conflitos, inimigos, perigos, lutas,
-    etc, que s\xE3o facilmente lidados pelo Protagonista e que n\xE3o exigem testes.
-    Moderado: Tarefas, obst\xE1culos, conflitos, inimigos, perigos, lutas, etc, que
-    s\xE3o mais f\xE1cil do que os normalmente lidados pelo Protagonista, e que podem
-    exigir testes, caso seja necess\xE1rio.\n\nNormal: Tarefas, obst\xE1culos, conflitos,
+    etc, que s\xE3o facilmente lidados pelo Protagonista e que n\xE3o exigem testes.\n\nModerado:
+    Tarefas, obst\xE1culos, conflitos, inimigos, perigos, lutas, etc, que s\xE3o
+    mais f\xE1cil do que os normalmente lidados pelo Protagonista, e que podem exigir
+    testes, caso seja necess\xE1rio.\n\nNormal: Tarefas, obst\xE1culos, conflitos,
     inimigos, perigos, lutas, etc, que s\xE3o normalmente lidados pelo Protagonista,
-    e que podem exigir testes, caso seja necess\xE1rio. Dif\xEDcil: Tarefas, obst\xE1culos,
+    e que podem exigir testes, caso seja necess\xE1rio.\n\nDif\xEDcil: Tarefas, obst\xE1culos,
     conflitos, inimigos, perigos, lutas, etc, que oferecem desafio e perigo acima
     do normal ao Protagonista, e que exigem testes.\n\nMuito Dif\xEDcil: Tarefas,
     obst\xE1culos, conflitos, inimigos, perigos, lutas, etc, que oferecem grande
-    desafio e grande perigo ao Protagonista, e que exigem testes. Imposs\xEDvel:
+    desafio e grande perigo ao Protagonista, e que exigem testes.\n\nImposs\xEDvel:
     Tarefas, obst\xE1culos, conflitos, inimigos, perigos, lutas, etc, que s\xE3o
     imposs\xEDveis para o Protagonista. Ele s\xF3 poder\xE1 fazer um teste caso fa\xE7a
     algo para reduzir o n\xEDvel de dificuldade de Imposs\xEDvel para Muito Dif\xEDcil
-    ou algum grau menor. de Imposs\xEDvel para Muito Dif\xEDcil ou algum grau menor.mposs\xEDvel:
-    Tarefas, obst\xE1culos, conflitos, inimigos, perigos,\nlutas, etc, que s\xE3o
-    imposs\xEDveis para o Protagonista. Ele s\xF3\npoder\xE1 fazer um teste caso
-    fa\xE7a algo para reduzir o n\xEDvel de\ndificuldade de Imposs\xEDvel para Muito
-    Dif\xEDcil ou algum grau\nmenor. de Imposs\xEDvel para Muito Dif\xEDcil ou algum
-    grau\nmenor."
+    ou algum grau menor. de Imposs\xEDvel para Muito Dif\xEDcil ou algum grau menor."
   myTable:
     title: "N\xEDvel de Dificuldade"
     results:
