@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: "Descri\xE7\xE3o de Lugares"
   m_EditorClassIdentifier: 
-  hint: "Esse Or\xE1culo contem adjetivos para ajudar a descrever Lugares\r\nna sua
-    Aventura.\r\nUse o Or\xE1culo da Descri\xE7\xE3o de Lugares em conjunto com o\r\nOr\xE1culo
-    dos Temas e o Or\xE1culo da A\xE7\xE3o, antes de uma Cena,\r\nna Fase de Informa\xE7\xE3o,
-    para preparar o Conflito, ou usar pode\r\nusar em conjunto com o Or\xE1culo dos
-    Eventos Inesperados,\r\npara lhe dar mais inspira\xE7\xE3o sobre o que ir\xE1
-    acontecer em\r\nseguida na Fic\xE7\xE3o do Jogo.\r\nRole 2d6 Dezena-Unidade e
-    selecione um ou mais Temas\r\ndentre as duas op\xE7\xF5es do resultado."
+  hint: "Esse Or\xE1culo contem adjetivos para ajudar a descrever Lugares na sua
+    Aventura. Use o Or\xE1culo da Descri\xE7\xE3o de Lugares em conjunto com o Or\xE1culo
+    dos Temas e o Or\xE1culo da A\xE7\xE3o, antes de uma Cena, na Fase de Informa\xE7\xE3o,
+    para preparar o Conflito, ou usar pode usar em conjunto com o Or\xE1culo dos
+    Eventos Inesperados, para lhe dar mais inspira\xE7\xE3o sobre o que ir\xE1 acontecer
+    em seguida na Fic\xE7\xE3o do Jogo. Role 2d6 Dezena-Unidade e selecione um ou
+    mais Temas dentre as duas op\xE7\xF5es do resultado."
   myTable:
     title: "Descri\xE7\xE3o de Lugares"
     results:

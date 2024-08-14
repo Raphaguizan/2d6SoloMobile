@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: "A\xE7\xF5es"
   m_EditorClassIdentifier: 
   hint: "Esse Or\xE1culo contem a\xE7\xF5es para inspirar cenas, motiva\xE7\xF5es
-    de\r\nCoadjuvantes e Protagonistas, reviravoltas, etc.\r\nUse esta tabela para
-    inspirar uma descoberta, evento, ou um\r\nobjetivo de um Protagonista ou Coadjuvante,
-    ou uma situa\xE7\xE3o.\r\nUma rolagem no Or\xE1culo da A\xE7\xE3o pode ser combinada
-    com\r\numa rolagem no o Or\xE1culo do Tema e uma rolagem no Or\xE1culo\r\ndos
-    Elementos de Cena.\r\nRole 2d6 Dezena-Unidade e selecione uma ou mais A\xE7\xF5es\r\ndentre
-    as tr\xEAs op\xE7\xF5es do resultado."
+    de Coadjuvantes e Protagonistas, reviravoltas, etc. Use esta tabela para inspirar
+    uma descoberta, evento, ou um objetivo de um Protagonista ou Coadjuvante, ou
+    uma situa\xE7\xE3o. Uma rolagem no Or\xE1culo da A\xE7\xE3o pode ser combinada
+    com uma rolagem no o Or\xE1culo do Tema e uma rolagem no Or\xE1culo dos Elementos
+    de Cena. Role 2d6 Dezena-Unidade e selecione uma ou mais A\xE7\xF5es dentre as
+    tr\xEAs op\xE7\xF5es do resultado."
   myTable:
     title: "A\xE7\xF5es"
     results:

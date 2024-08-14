@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: Temas
   m_EditorClassIdentifier: 
-  hint: "Esse Or\xE1culo contem temas ou ideias para inspirar cenas,\r\nmotiva\xE7\xF5es
-    de Coadjuvantes e Protagonistas, reviravoltas, etc.\r\nUse o Or\xE1culo dos Temas
-    junto com o Or\xE1culo da A\xE7\xE3o, ou\r\nseja, um VERBO (A\xE7\xE3o) com um
-    SUBSTANTIVO (Tema) para\r\nter uma semente de Cena ou de uma nova Trama para
-    a Fic\xE7\xE3o\r\ndo Jogo.\r\nVoc\xEA tamb\xE9m pode usar o Or\xE1culo do Tema
-    antes de uma\r\nCena, na Fase de Informa\xE7\xE3o, para preparar o Conflito,
-    ou usar\r\npode usar em conjunto com o Or\xE1culo dos Eventos\r\nInesperados,
-    para lhe dar mais inspira\xE7\xE3o sobre o que ir\xE1\r\nacontecer em seguida
-    na Fic\xE7\xE3o do Jogo.\r\nRole 2d6 Dezena-Unidade e selecione um ou mais Temas\r\ndentre
-    as tr\xEAs op\xE7\xF5es do resultado."
+  hint: "Esse Or\xE1culo contem temas ou ideias para inspirar cenas, motiva\xE7\xF5es
+    de Coadjuvantes e Protagonistas, reviravoltas, etc. Use o Or\xE1culo dos Temas
+    junto com o Or\xE1culo da A\xE7\xE3o, ou seja, um VERBO (A\xE7\xE3o) com um SUBSTANTIVO
+    (Tema) para ter uma semente de Cena ou de uma nova Trama para a Fic\xE7\xE3o
+    do Jogo. Voc\xEA tamb\xE9m pode usar o Or\xE1culo do Tema antes de uma Cena,
+    na Fase de Informa\xE7\xE3o, para preparar o Conflito, ou usar pode usar em conjunto
+    com o Or\xE1culo dos Eventos Inesperados, para lhe dar mais inspira\xE7\xE3o
+    sobre o que ir\xE1 acontecer em seguida na Fic\xE7\xE3o do Jogo. Role 2d6 Dezena-Unidade
+    e selecione um ou mais Temas dentre as tr\xEAs op\xE7\xF5es do resultado."
   myTable:
     title: Temas
     results:

@@ -20,11 +20,11 @@ MonoBehaviour:
     descarte uma criatura aparentemente impratic\xE1vel muito rapidamente; as vezes,
     com um pouco de imagina\xE7\xE3o, essas criaturas se tornam memor\xE1veis! Selecione
     quantas tabelas quiser para montar o seu monstro instantaneamente! Role 2d6 Dezena-Unidade
-    uma vez em cada uma das noves Tabelas abaixo ou selecione das op\xE7\xF5es apresentadas.
-    \n\nExemplo: Voc\xEA rola 2d6 Dezena-Unidade na Tabela 18.1 - Corpo e tira 35.
-    O monstro \xE9 \u201CQuadr\xFApede e Grande\u201D. Na Tabela 18.2 - Pele voc\xEA
-    rola 2d6 Dezena-Unidade e tira 25 \u201CEspinhos\u201D. At\xE9 agora o monstro
-    \xE9 Quadr\xFApede e tem Espinhos pelo corpo."
+    uma vez em cada uma das noves Tabelas abaixo ou selecione das op\xE7\xF5es apresentadas.\n\nExemplo:
+    Voc\xEA rola 2d6 Dezena-Unidade na Tabela 18.1 - Corpo e tira 35. O monstro \xE9
+    \u201CQuadr\xFApede e Grande\u201D. Na Tabela 18.2 - Pele voc\xEA rola 2d6 Dezena-Unidade
+    e tira 25 \u201CEspinhos\u201D. At\xE9 agora o monstro \xE9 Quadr\xFApede e tem
+    Espinhos pelo corpo."
   myTable:
     title: Corpo do Monstro
     results:

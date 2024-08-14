@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: Objetivo na Masmorra
   m_EditorClassIdentifier: 
-  hint: "Use as tabelas abaixo quando voc\xEA quiser criar uma Masmorra\r\nou Masmorra
+  hint: "Use as tabelas abaixo quando voc\xEA quiser criar uma Masmorra ou Masmorra
     instant\xE2nea para jogos de Fantasia Medieval."
   myTable:
     title: Objetivo na Masmorra

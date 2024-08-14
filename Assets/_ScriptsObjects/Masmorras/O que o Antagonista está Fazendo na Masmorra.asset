@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: "O que o Antagonista est\xE1 Fazendo na Masmorra"
   m_EditorClassIdentifier: 
-  hint: "O que o Antagonista (Monstros ou Inimigos) est\xE1 fazendo\r\nquando os
-    Protagonistas o encontram?\r\nRole 2d6 Dezena-Unidade"
+  hint: "O que o Antagonista (Monstros ou Inimigos) est\xE1 fazendo quando os Protagonistas
+    o encontram? \nRole 2d6 Dezena-Unidade"
   myTable:
     title: "O que o Antagonista est\xE1 Fazendo na Masmorra"
     results:

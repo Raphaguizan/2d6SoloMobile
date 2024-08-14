@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: "Interven\xE7\xF5es do Mestre"
   m_EditorClassIdentifier: 
-  hint: "Use esse Or\xE1culo quando voc\xEA quiser simular a Interven\xE7\xE3o de\r\num
-    Mestre do Jogo em sua aventura.\r\nRole 1d6 e depois adapte a decis\xE3o para
+  hint: "Use esse Or\xE1culo quando voc\xEA quiser simular a Interven\xE7\xE3o de
+    um Mestre do Jogo em sua aventura. Role 1d6 e depois adapte a decis\xE3o para
     a Fic\xE7\xE3o do Jogo."
   myTable:
     title: "Interven\xE7\xF5es do Mestre"
