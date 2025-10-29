@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditorInternal;
 using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
@@ -93,6 +92,9 @@ public class HintPopup : PopupBase
         string myText = "";
         for (int i = 0; i < tablesToHint.Count; i++)
         {
+            if (tablesToHint[i].Hint.Equals(string.Empty))
+                continue;
+
             myText += "<b>" + tablesToHint[i].GetTitle() + ":</b>\n";
             myText += tablesToHint[i].Hint + "\n\n";
         }

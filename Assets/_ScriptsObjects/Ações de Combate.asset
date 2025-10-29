@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: "A\xE7\xF5es de Combate"
   m_EditorClassIdentifier: 
-  hint: "Esse Or\xE1culo contem temas ou ideias para inspirar uma a\xE7\xE3o\r\nde
-    um Oponente Coadjuvante em um combate.\r\nQuando voc\xEA n\xE3o tiver certeza
-    do que seu inimigo far\xE1 a\r\nseguir, especialmente quando ele tiver iniciativa,
-    role nesta\r\ntabela e interprete o resultado conforme apropriado ao seu\r\noponente
-    e \xE0 situa\xE7\xE3o.\r\nEssas s\xE3o a\xE7\xF5es feitas por Coadjuvantes em
-    rela\xE7\xE3o ao\r\nProtagonista ou a outros Coadjuvantes."
+  hint: "Esse Or\xE1culo contem temas ou ideias para inspirar uma a\xE7\xE3o de um
+    Oponente Coadjuvante em um combate. Quando voc\xEA n\xE3o tiver certeza do que
+    seu inimigo far\xE1 a seguir, especialmente quando ele tiver iniciativa, role
+    nesta tabela e interprete o resultado conforme apropriado ao seu oponente e \xE0
+    situa\xE7\xE3o. Essas s\xE3o a\xE7\xF5es feitas por Coadjuvantes em rela\xE7\xE3o
+    ao Protagonista ou a outros Coadjuvantes."
   myTable:
     title: "A\xE7\xF5es de Combate"
     results:

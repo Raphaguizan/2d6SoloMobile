@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: "Ra\xE7as Comuns (fantasia)"
   m_EditorClassIdentifier: 
   hint: "Ra\xE7a do novo coadjuvante. Role 1d6, primeiro nas Ra\xE7as Comuns. Se
-    voc\xEA tirar 6 role na\r coluna de Ra\xE7as Ex\xF3ticas.(Autom\xE1tico)"
+    voc\xEA tirar 6 role na coluna de Ra\xE7as Ex\xF3ticas.(Autom\xE1tico)"
   myTable:
     title: "Ra\xE7as Comuns (fantasia)"
     results:

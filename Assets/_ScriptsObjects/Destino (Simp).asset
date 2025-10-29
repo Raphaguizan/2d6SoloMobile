@@ -12,11 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: Destino (Simp)
   m_EditorClassIdentifier: 
-  hint: "Essa \xE9 uma vers\xE3o mais simples do Or\xE1culo do Destino.\r\nQuando
-    voc\xEA quiser saber algo sobre a Fic\xE7\xE3o do Jogo fa\xE7a\r\numa pergunta
-    de resposta Sim e N\xE3o e role 1d6.\r\nEssa tabela n\xE3o tem Eventos Inesperados,
-    assim fica ao seu\r\ncrit\xE9rio o momento de rolar um Evento Inesperado para
-    seu\r\njogo."
+  hint: "Essa \xE9 uma vers\xE3o mais simples do Or\xE1culo do Destino. Quando voc\xEA
+    quiser saber algo sobre a Fic\xE7\xE3o do Jogo fa\xE7a uma pergunta de resposta
+    Sim e N\xE3o e role 1d6. Essa tabela n\xE3o tem Eventos Inesperados, assim fica
+    ao seu crit\xE9rio o momento de rolar um Evento Inesperado para seu jogo."
   myTable:
     title: Destino (Simp)
     results:

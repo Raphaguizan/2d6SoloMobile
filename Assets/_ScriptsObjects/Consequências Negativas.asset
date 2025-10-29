@@ -12,12 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: "Consequ\xEAncias Negativas"
   m_EditorClassIdentifier: 
-  hint: "Primeiro fa\xE7a o teste na Tabela 5 - Or\xE1culo dos Efeitos dos\r\nSucessos
-    e das Falhas, em seguida role na tabela abaixo para\r\nver a Consequ\xEAncia
-    Negativa.\r\nRole 1d6 uma vez se voc\xEA rolou um Sucesso Parcial.\r\nRole 1d6
-    duas vezes se voc\xEA rolou uma Falha.\r\nRole 1d6 tr\xEAs vezes se voc\xEA rolou
-    uma Falha Cr\xEDtica.\r\nConsulte o resultado na tabela abaixo e incorpore na
-    Fic\xE7\xE3o do\r\nJogo."
+  hint: "Primeiro fa\xE7a o teste na Tabela 5 - Or\xE1culo dos Efeitos dos Sucessos
+    e das Falhas, em seguida role na tabela abaixo para ver a Consequ\xEAncia Negativa.
+    Role 1d6 uma vez se voc\xEA rolou um Sucesso Parcial. Role 1d6 duas vezes se
+    voc\xEA rolou uma Falha. Role 1d6 tr\xEAs vezes se voc\xEA rolou uma Falha Cr\xEDtica.
+    Consulte o resultado na tabela abaixo e incorpore na Fic\xE7\xE3o do Jogo."
   myTable:
     title: "Consequ\xEAncias Negativas"
     results:

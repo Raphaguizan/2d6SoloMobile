@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0e34c6152fc0904bb7eb920a2a3965b, type: 3}
   m_Name: Sucesso e Falha
   m_EditorClassIdentifier: 
-  hint: "Descreva o que o Protagonista ou Coadjuvante quer fazer.\r\nRole 2d6 e consulte
-    a resposta na lista abaixo:\r\n12 - Sucesso Cr\xEDtico!\r\nO Protagonista ou
-    Coadjuvante consegue fazer o que queria e\r\nmuito mais!\r\n10,11 - Sucesso Total!\r\nO
-    Protagonista ou Coadjuvante consegue fazer o que queria!\r\n7,8,9 - Sucesso Parcial!\r\nO
-    Protagonista ou Coadjuvante consegue fazer o que queria\r\npor\xE9m com um Custo!
-    Role uma vez na tabela das\r\nConsequ\xEAncias Negativas!\r\n3,4,5,6 - Falha!\r\nO
-    Protagonista ou Coadjuvante n\xE3o consegue fazer o que\r\nqueria! Role duas
-    vezes na tabela das Consequ\xEAncias\r\nNegativas!\r\n2 - Falha Cr\xEDtica!\r\nO
-    Protagonista ou Coadjuvante n\xE3o consegue fazer o que\r\nqueria e algo catastr\xF3fico
-    acontece! Role tr\xEAs vezes na tabela\r\ndas Consequ\xEAncias Negativas!"
+  hint: "Descreva o que o Protagonista ou Coadjuvante quer fazer. Role 2d6 e consulte
+    a resposta na lista abaixo:\n\n12 - Sucesso Cr\xEDtico! O Protagonista ou Coadjuvante
+    consegue fazer o que queria e muito mais!\n\n10,11 - Sucesso Total! O Protagonista
+    ou Coadjuvante consegue fazer o que queria!\n\n7,8,9 - Sucesso Parcial! O Protagonista
+    ou Coadjuvante consegue fazer o que queria por\xE9m com um Custo! Role uma vez
+    na tabela das Consequ\xEAncias Negativas!\n\n3,4,5,6 - Falha! O Protagonista
+    ou Coadjuvante n\xE3o consegue fazer o que queria! Role duas vezes na tabela
+    das Consequ\xEAncias Negativas!\n\n2 - Falha Cr\xEDtica! O Protagonista ou Coadjuvante
+    n\xE3o consegue fazer o que queria e algo catastr\xF3fico acontece! Role tr\xEAs
+    vezes na tabela das Consequ\xEAncias Negativas!"
   myTable:
     title: Sucesso e Falha
     results:
